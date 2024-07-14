@@ -1,0 +1,6 @@
+[filesystem]
+path="/there"
+auth.required=true
+auth.admin_only=false
+[theme]
+use_colors=true
