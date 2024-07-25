@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <ref name="listpersonnes"/>
+  </start>
+  <!-- point de départ indispensable -->
+  <define name="listpersonnes">
+    <element name="liste">
+      <zeroOrMore>
+        <ref name="personne"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="personne">
+    <element name="personne">
+      <ref name="idPersonne"/>
+      <ref name="nomPersonne"/>
+    </element>
+  </define>
+  <define name="idPersonne">
+    <attribute name="id">
+      <data type="integer"/>
+    </attribute>
+  </define>
+  <define name="nomPersonne">
+    <zeroOrMore>
+      <attribute name="nom">
+        <ref name="nomPers"/>
+      </attribute>
+    </zeroOrMore>
+  </define>
+  <define name="nomPers">
+    <data type="string">
+      <param name="pattern">[A-Z][a-zA-Z ]*</param>
+    </data>
+  </define>
+</grammar>

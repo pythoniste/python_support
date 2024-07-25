@@ -1,0 +1,8 @@
+start = listpersonnes
+listpersonnes = element liste {personne*}
+personne = element personne {idP, nomP}
+idP = attribute id { idPersonne }
+nomP = attribute nom { nomPersonne }
+idPersonne = attribute id { xsd:integer }
+nomPersonne = xsd:string { pattern = "[A-Z][a-z ]*" }
+
