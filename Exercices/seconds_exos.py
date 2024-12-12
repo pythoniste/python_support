@@ -35,14 +35,14 @@ def common_ground(liste1: list[int], liste2: list[int]) -> list[int]:
     """
 
 
-def pierre_papier_ciseau(choix: str) -> str:
+def pierre_papier_ciseaux(choix: str) -> str:
     """
     Jouer à Pierre, Papier, Ciseau
-    >>> pierre_papier_ciseau("pierre")
+    >>> pierre_papier_ciseaux("pierre")
     Vous avez gagné !
-    >>> pierre_papier_ciseau("pierre")
+    >>> pierre_papier_ciseaux("pierre")
     Vous avez perdu !
-    >>> pierre_papier_ciseau("pierre")
+    >>> pierre_papier_ciseaux("pierre")
     égalité !
     """
 

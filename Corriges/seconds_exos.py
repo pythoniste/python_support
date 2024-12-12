@@ -63,17 +63,17 @@ def common_ground(liste1: list[int], liste2: list[int]) -> list[int]:
     return sorted(set(liste1) & set(liste2))
 
 
-def pierre_papier_ciseaux(choix: str) -> str:
+def pierre_feuille_ciseaux(choix: str) -> str:
     """
     Jouer à Pierre, Papier, Ciseau
-    >>> pierre_papier_ciseaux("pierre")
+    >>> pierre_feuille_ciseaux("pierre")
     Vous avez gagné !
-    >>> pierre_papier_ciseaux("papier")
+    >>> pierre_feuille_ciseaux("feuille")
     Vous avez perdu !
-    >>> pierre_papier_ciseaux("ciseaux")
+    >>> pierre_feuille_ciseaux("ciseaux")
     égalité !
     """
-    univers = ["pierre", "papier", "ciseaux"]
+    univers = ["pierre", "feuille", "ciseaux"]
     if choix not in univers:
         return "Ce choix n'est pas correct."
 
