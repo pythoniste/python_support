@@ -1,0 +1,5 @@
+"nom","tva","prix HT","TVA","prix TTC"
+"Machine","Nominale","1000","200","1200"
+"Travaux","Intermédiaire","1000","100","1100"
+"Réfection","Réduit","1000","55","1055"
+"Tournevis","Nominale","20","4","24"

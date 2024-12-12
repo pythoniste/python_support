@@ -1,0 +1,6 @@
+Ceci
+était
+un
+beau
+fichier
+multilignes.

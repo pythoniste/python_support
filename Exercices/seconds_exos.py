@@ -1,7 +1,8 @@
-from datetime import date
+from datetime import datetime, date, time, timedelta
+from random import choice
 
 
-def calculer_age(date_naissance):
+def calculer_age(date_naissance: date) -> int:
     """
     Calcule l'age à partir de la date de naissance
 
@@ -12,7 +13,20 @@ def calculer_age(date_naissance):
     """
 
 
-def common_ground(liste1, liste2):
+def calculer_fin(heure_debut_reunion: time, duree_reunion: int | float) -> time:
+    """
+    Calcule l'heure de fin de réunion
+
+    >>> calculer_fin(time(10, 0, 0), 1)
+    datetime.time(11, 0)
+    >>> calculer_fin(time(9, 30, 0), 2.5)
+    datetime.time(12, 0)
+    >>> calculer_fin(time(23, 30, 0), 2)
+    datetime.time(1, 30)
+    """
+
+
+def common_ground(liste1: list[int], liste2: list[int]) -> list[int]:
     """
     Renvoie les éléments communs aux deux listes (ordonnés)
 
@@ -21,7 +35,7 @@ def common_ground(liste1, liste2):
     """
 
 
-def pierre_papier_ciseau(choix):
+def pierre_papier_ciseau(choix: str) -> str:
     """
     Jouer à Pierre, Papier, Ciseau
     >>> pierre_papier_ciseau("pierre")
