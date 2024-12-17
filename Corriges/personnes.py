@@ -1,3 +1,7 @@
+"""
+Ce fichier contient le corrigé pour l'exercice sur la manipulation d'objets.
+"""
+
 from datetime import date
 from functools import total_ordering
 
@@ -7,6 +11,7 @@ class Person:
     """Représente une personne."""
 
     def __init__(self, prenom, nom, date_naissance):
+        """Initialisateur."""
         self.nom = nom
         self.prenom = prenom
         self.date_naissance = date_naissance
