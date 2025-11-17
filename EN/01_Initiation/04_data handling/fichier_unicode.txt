@@ -1,0 +1,2 @@
+Ceci est un fichier.
+Il contient deux caractères accentués.

@@ -1,0 +1,149 @@
+#!/usr/bin/python3
+
+# import du module d'analyse des arguments
+import argparse
+
+# import de notre fonction de calcul
+from emprunt import calcul_capital, calcul_mensualité
+
+
+
+def get_parser():
+    # Étape 1-1 : définir une fonction proxy vers la fonction principale du premier sous-programme
+    def proxy_calcul_capital(args):
+	    """Fonction proxy vers calcul_capital"""
+	    resultat = calcul_capital(
+		    args.mensualite,
+		    args.taux / 100,
+		    args.duree * 12,
+		    arrondi = args.arrondi,
+	    )
+	    if args.verbose:
+		    print('En payant une mensualité de %s euros sur %s mois avec un taux de%s %%, vous pouvez emprunter %s euros.' % (args.mensualite, args.duree, args.taux, resultat))
+	    else:
+		    print(resultat)
+
+
+    # Étape 1-2 : définir une fonction proxy vers la fonction principale du second sous-programme
+    def proxy_calcul_mensualité(args):
+	    """Fonction proxy vers calcul_mensualité"""
+	    resultat = calcul_mensualité(
+		    args.capital,
+		    args.taux / 100,
+		    args.duree * 12,
+		    arrondi = args.arrondi,
+	    )
+	    if args.verbose:
+		    print('Pour emprunter %s euros sur %s mois à un taux de %s%%, vous devrez payer une mensualité de %s.' % (args.capital, args.duree, args.taux, resultat))
+	    else:
+		    print(resultat)
+
+
+
+
+    # Étape 2 : définir l'analyseur général
+    parser = argparse.ArgumentParser(
+	    prog = 'emprunt',
+	    description = """Programme permettant d'effectuer des calculs sur des emprunts""",
+	    epilog = """Réalisé pour le livre Programmation système avec Python"""
+    )
+
+    # Rajout d'option communes à tout les analyseurs locaux
+    parser.add_argument(
+	    "-a",
+	    "--arrondi",
+	    help="Doit-on arrondir le résultat ?",
+	    action="store_true",
+    )
+    parser.add_argument(
+	    "-v",
+	    "--verbose",
+	    action="store_true",
+	    help="Mode bavard",
+    )
+
+    # Permettre la création des sous-analyseurs
+    subparsers = parser.add_subparsers(help='Liste des commandes')
+
+
+
+
+    # Étape 2-1 : créer un sous-parseur pour calcul_capital
+    capital_parser = subparsers.add_parser(
+	    'capital',
+	    aliases = ['-c'],
+	    description = "Calculez le capital que vous pouvez emprunter",
+	    help = "Calcul d'un capital à partir d'une mensualité, d'un taux et d'une durée",
+    )
+
+
+    # Étape 2-2 : créer un sous-parseur pour calcul_mensualité
+    mensualité_parser = subparsers.add_parser(
+	    'mensualite',
+	    aliases = ['-m'],
+	    description = "Calculez une mensualité par rapport à un capital de départ",
+	    help = "Calcul d'une mensualité à partir d'un capital, d'un taux et d'une durée",
+    )
+
+
+
+
+    # Étape 3-1 : rajouter la définition des arguments pour le sous-analyseur capital
+    capital_parser.add_argument(
+	    'mensualite',
+	    help = """mensualité en euros""",
+	    type = int,
+    )
+    capital_parser.add_argument(
+	    'taux',
+	    help = """un taux annuel en pourcentage""",
+	    type = float,
+    )
+    capital_parser.add_argument(
+	    'duree',
+	    help = """Durée en années""",
+	    type = int,
+    )
+
+
+    # Étape 3-2 : rajouter la définition des arguments pour le sous-analyseur mensualité
+    mensualité_parser.add_argument(
+	    'capital',
+	    help = """capital en euros""",
+	    type = int,
+    )
+    mensualité_parser.add_argument(
+	    'taux',
+	    help = """un taux annuel en pourcentage""",
+	    type = float,
+    )
+    mensualité_parser.add_argument(
+	    'duree',
+	    help = """Durée en années""",
+	    type = int,
+    )
+
+
+
+
+    # Étape 4-1 : rajouter le lien entre l'analyseur et la fonction proxy pour calcul_capital
+    capital_parser.set_defaults(func=proxy_calcul_capital)
+
+
+    # Étape 4-2 : rajouter le lien entre l'analyseur et la fonction proxy pour calcul_mensualité
+    mensualité_parser.set_defaults(func=proxy_calcul_mensualité)
+
+    return parser
+
+
+
+
+if __name__ == '__main__':
+    parser = get_parser()
+    # Étape 5 : démarrer l'analyse des arguments, puis le programme.
+    args = parser.parse_args()
+    args.func(args)
+
+
+# Fin du programme
+

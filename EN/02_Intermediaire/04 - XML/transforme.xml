@@ -1,0 +1,13 @@
+<root name="liste de personnes" date="20110901">
+  <liste>
+    <personne>
+      <nom>Paul Personne</nom>
+    </personne>
+    <personne>
+      <nom>Joe Satriani</nom>
+    </personne>
+    <personne>
+      <nom/>
+    </personne>
+  </liste>
+</root>

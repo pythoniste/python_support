@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liste>
+	<personne id="1" nom="Paul Personne" />
+	<personne id="2" nom="Joe Satriani" />
+	<personne id="3" />
+</liste>
+

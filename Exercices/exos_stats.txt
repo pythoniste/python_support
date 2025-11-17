@@ -1,0 +1,17 @@
+datatourisme-tour.csv : aller chercher les données du 06. // Afficher les villes et les descriptions.
+https://www.data.gouv.fr/fr/datasets/datatourisme-la-base-nationale-des-donnees-publiques-dinformation-touristique-en-open-data/
+
+Sélectionner les données où HNEIGEFTOT est supérieur à 0
+- Donner le nombre total de cm tombé par ville (en sommant sur toutes les dates)
+- Donner la ville où il neige le plus.
+- Pour cette ville, afficher la série de données temporelle.
+https://www.data.gouv.fr/fr/datasets/donnees-climatologiques-de-base-mensuelles/
+https://object.files.data.gouv.fr/meteofrance/data/synchro_ftp/BASE/MENS/MENSQ_descriptif_champs.csv
+
+https://github.com/pythoniste/python_support
+
+pip install flowgiston
+
+https://www.insee.fr/fr/statistiques/:~:text=Lecture%20:%20en%202021,%20les%20importations,part%20non-bio%20des%20additifs.
+
+

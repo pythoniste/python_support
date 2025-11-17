@@ -1,0 +1,13 @@
+total 1364
+-rw-rw-rw- 1 sch-bm sch-bm 1280411 23 févr.  2023 09 - Matplotlib.ipynb
+-rw-rw-rw- 1 sch-bm sch-bm   48943 23 févr.  2023 10 - Numpy.ipynb
+-rw-rw-rw- 1 sch-bm sch-bm   25815 28 mai   16:28 13 - Programmation système.ipynb
+drwxr-xr-x 3 sch-bm sch-bm    4096 28 mai   14:17 exos
+drwxrwxrwx 4 sch-bm sch-bm    4096 28 mai   16:03 exs
+-rwxr-xr-x 1 sch-bm sch-bm    3196 28 mai   15:53 incident
+-rw-r--r-- 1 sch-bm sch-bm    5504 28 mai   15:06 incident.py
+-rw-r--r-- 1 sch-bm sch-bm     640 28 mai   15:53 incidents.json
+-rw-r--r-- 1 sch-bm sch-bm     500 28 mai   15:53 incidents.pickle
+drwxr-xr-x 2 sch-bm sch-bm    4096 28 mai   08:27 .ipynb_checkpoints
+-rw-r--r-- 1 sch-bm sch-bm       0 28 mai   16:29 ls.txt
+drwxr-xr-x 2 sch-bm sch-bm    4096 28 mai   15:07 __pycache__

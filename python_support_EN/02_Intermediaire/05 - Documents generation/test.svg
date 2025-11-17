@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="400" height="300" viewBox="0 0 400 300">
+<defs>
+</defs>
+<path d="M130,30 L190,90" stroke="black" />
+<path d="M10,190 L10,110 L80,190 L80,110" fill="none" stroke="black" />
+<path d="M150,80 L160,20 L170,80 L180,20 L190,80 L200,20 L210,80 L220,20 L230,80 L240,20 L250,80 L260,20 L270,80 L280,20 L290,80 L300,20 L310,80 L320,20 L330,80 L340,20" stroke="black" stroke-width="5" fill="none" />
+<path d="M15,10 L55,10 L45,20 L5,20 Z" fill="red" stroke="black" />
+<path d="M48,16 L16,96 L96,48 L0,48 L88,96 Z" stroke="black" fill="none" />
+<rect x="10" y="210" width="10" height="20" />
+<rect x="30" y="210" width="10" height="20" fill="none" stroke="black" />
+<rect x="50" y="210" width="10" height="20" fill="#0000ff" stroke="red" stroke-width="7" stroke-opacity="0.5" />
+<rect x="70" y="210" width="10" height="20" fill="yellow" fill-opacity="0.5" stroke="green" stroke-width="2" stroke-dasharray="5,2" />
+<rect x="90" y="210" width="10" height="20" rx="1" ry="1" stroke="black" fill="none" />
+<rect x="110" y="210" width="10" height="20" ry="2" stroke="black" fill="none" />
+<rect x="130" y="210" width="10" height="20" rx="4" stroke="black" fill="none" />
+<rect x="150" y="210" width="10" height="20" rx="3" ry="1" stroke="black" fill="none" />
+<rect x="170" y="210" width="10" height="20" rx="1" ry="3" stroke="black" fill="none" />
+<circle cx="200" cy="210" r="10" />
+<circle cx="235" cy="210" r="10" stroke="black" fill="none" />
+<circle cx="270" cy="210" r="10" stroke="black" fill="none" stroke-width="5" />
+<ellipse cx="305" cy="210" rx="10" ry="20" />
+<ellipse cx="340" cy="210" rx="10" ry="20" stroke="black" fill="none" />
+<ellipse cx="275" cy="210" rx="10" ry="20" stroke="black" fill="none" />
+</svg>
