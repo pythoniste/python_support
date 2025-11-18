@@ -15,7 +15,7 @@ def insert_in_the_middle(data: list, new: list, index: int) -> list:
     # for value in new[::-1]:
     #     data.insert(index, value)
     # return data
-    # 
+    #
     # # Solution 2
     # for i, value in enumerate(new):
     #     data.insert(index + i, value)

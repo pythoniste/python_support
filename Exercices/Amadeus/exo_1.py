@@ -18,5 +18,11 @@ if __name__ == "__main__":
     print("Main module")
     print(almost_square(5))
     print(almost_square(20))
+    while True:
+        user_input = input("Type a number: ")
+        if user_input.isdigit():
+            number = int(user_input)
+            break
+    print(almost_square(number))
 else:
     print("module is imported")
