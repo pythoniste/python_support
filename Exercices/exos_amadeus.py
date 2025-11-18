@@ -19,7 +19,7 @@ def area_and_perimeter_rectangle(longueur: int, largeur: int) -> tuple[int, int]
     """
 
 
-def rotate_list(data: list) -> list
+def rotate_list(data: list) -> list:
     """
     Move every element of the list to the right. The last element became the first.
     
@@ -28,7 +28,7 @@ def rotate_list(data: list) -> list
     """
 
 
-def memory_check(data: list, index1: int, index2: int) -> bool
+def memory_check(data: list, index1: int, index2: int) -> bool:
     """
     Returns True if the elements at index 1 and 2 are the same. Print the related values
     
@@ -41,7 +41,7 @@ def memory_check(data: list, index1: int, index2: int) -> bool
     """
 
 
-def insert_in_the_middle(data: list, new: list, index: int) -> None
+def insert_in_the_middle(data: list, new: list, index: int) -> None:
     """
     Insert a list of new elements in a list, at the specified index
     
@@ -80,13 +80,13 @@ def compute_email(first_name: str, last_name: str) -> str:
     """
 
 
-def add_email_to_datum(datum: dict[str, str | int]) -> str:
+def add_email_to_datum(datum: dict[str, str | int]) -> dict[str, str | int]:
     """
     Add the email information to the datum.
 
     >>> add_email_to_datum({
     ...     "first_name": "Simone",
-    ...     "last_name": Simons",
+    ...     "last_name": "Simons",
     ...     "team": "QA",
     ... })
     {
@@ -98,24 +98,24 @@ def add_email_to_datum(datum: dict[str, str | int]) -> str:
     """
 
 
-def add_email_to_data(data: list[dict[str, str | int]]) -> str:
+def add_email_to_data(data: list[dict[str, str | int]]) -> list[dict[str, str | int]]:
     """
     Add the email information to the datum.
 
     >>> add_email_to_datum([
     ...     {
     ...         "first_name": "Simone",
-    ...         "last_name": Simons",
+    ...         "last_name": "Simons",
     ...         "team": "QA",
     ...     },
     ...     {
     ...         "first_name": "Tarja",
-    ...         "last_name": Turunen",
+    ...         "last_name": "Turunen",
     ...         "team": "PDA",
     ...     },
     ...     {
     ...         "first_name": "Floor",
-    ...         "last_name": Jansen",
+    ...         "last_name": "Jansen",
     ...         "team": "QA",
     ...     },
     ... ])
@@ -149,17 +149,17 @@ def print_users(users: list[dict[str, str | int]]):
     >>> print_users([
     ...     {
     ...         "first_name": "Simone",
-    ...         "last_name": Simons",
+    ...         "last_name": "Simons",
     ...         "team": "QA",
     ...     },
     ...     {
     ...         "first_name": "Tarja",
-    ...         "last_name": Turunen",
+    ...         "last_name": "Turunen",
     ...         "team": "PDA",
     ...     },
     ...     {
     ...         "first_name": "Floor",
-    ...         "last_name": Jansen",
+    ...         "last_name": "Jansen",
     ...         "team": "QA",
     ...     },
     ... ])
@@ -188,7 +188,7 @@ def compute_age(birthdate: date) -> int:
     """
 
 
-def compute_end_time(start_time, duration_hours: int | float) -> time:
+def compute_end_time(start_time: time, duration_hours: int | float) -> time:
     """
     Compute the end time of a meeting, from the start time and the duration in hour.
 
