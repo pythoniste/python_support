@@ -9,6 +9,10 @@ def memory_check(data: list, index1: int, index2: int) -> bool:
     (3, 5)
     False
     """
+    first = data[index1]
+    second = data[index2]
+    print((first, second))
+    return first == second
 
 
 if __name__ == "__main__":
