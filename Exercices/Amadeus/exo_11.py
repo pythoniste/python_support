@@ -23,11 +23,24 @@ def print_users(users: list[dict[str, str | int]]):
     | First name | Last name | Team |
     +------------+-----------+------+
     |     Simone | Simons    |  QA  |
-    |      Tarja | Turunen   |  QA  |
+    |      Tarja | Turunen   | PDA  |
     |      Floor | Jansen    |  QA  |
     +------------+-----------+------+
     """
-
+    sep = "+" + "-" * 12 + "+" + "-" * 11 + "+" + "-" * 6 + "+"
+    print(sep)
+    print("| First name | Last name | Team |")
+    print(sep)
+    for user in users:
+        print(f"| {user['first_name'].rjust(10)} | {user['last_name'].ljust(9)} | {user['team'].center(4)} |")
+        # print("| ", end="")
+        # print(user["first_name"].rjust(10), end="")
+        # print(" | ", end="")
+        # print(user["last_name"].ljust(9), end="")
+        # print(" | ", end="")
+        # print(user["team"].center(4), end="")
+        # print(" |")
+    print(sep)
 
 if __name__ == "__main__":
     import doctest
