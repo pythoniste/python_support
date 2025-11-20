@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.3.2 (Python 3.11.2 on linux)" generated="2025-11-19T20:04:55.536822" rpa="false" schemaversion="5">
+<suite id="s1" name="First Test" source="/home/sch-bm/Documents/repositories/python_support/Exercices/Amadeus/first_test.robot">
+<test id="s1-t1" name="Create A Random String" line="5">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>We are going to generate a random string</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-11-19T20:04:55.556213" elapsed="0.000256"/>
+</kw>
+<kw name="Generate Random String" owner="String">
+<arg>10</arg>
+<doc>Generates a string with a desired ``length`` from the given ``chars``.</doc>
+<status status="PASS" start="2025-11-19T20:04:55.556680" elapsed="0.000235"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>We finished generating a random string</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2025-11-19T20:04:55.557058" elapsed="0.000141"/>
+</kw>
+<status status="PASS" start="2025-11-19T20:04:55.555373" elapsed="0.001992"/>
+</test>
+<status status="PASS" start="2025-11-19T20:04:55.537473" elapsed="0.020287"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="First Test" id="s1" pass="1" fail="0" skip="0">First Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

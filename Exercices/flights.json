@@ -1,0 +1,62 @@
+[
+    {
+        "id": "22a7f9b8-e312-462c-9606-abd8fbb42dbf",
+        "name": "NC204",
+        "seats": "60",
+        "departure_city": "Paris CDG",
+        "arrival_city": "Zurich",
+        "departure_datetime": "2025-11-19T08:00:00.000000+01:00",
+        "arrival_datetime": "2025-11-19T09:00:00.000000+01:00",
+        "company": "Air France"
+    },
+    {
+        "id": "1bb8f233-3353-4e75-b75f-66692c4f3909",
+        "name": "SU503",
+        "seats": "320",
+        "departure_city": "Barcelone",
+        "arrival_city": "Milan",
+        "departure_datetime": "2025-11-19T08:00:00.000000+01:00",
+        "arrival_datetime": "2025-11-19T09:30:00.000000+01:00",
+        "company": "EasyJet"
+    },
+    {
+        "id": "759f5007-dde7-4d80-b6a4-7b4ff0f82a3b",
+        "name": "UE520",
+        "seats": "120",
+        "departure_city": "Guyanna",
+        "arrival_city": "Paris CDG",
+        "departure_datetime": "2025-11-19T00:00:00.000000-04:00",
+        "arrival_datetime": "2025-11-19T08:00:00.000000+01:00",
+        "company": "Air France"
+    },
+    {
+        "id": "9897c321-dbc0-496a-84ca-4e463d7dfaaf",
+        "name": "TP418",
+        "seats": "60",
+        "departure_city": "Paris Orly",
+        "arrival_city": "Barcelone",
+        "departure_datetime": "2025-11-19T08:20:00.000000+01:00",
+        "arrival_datetime": "2025-11-19T09:30:00.000000+01:00",
+        "company": "EasyJet"
+    },
+    {
+        "id": "a99b180b-7091-424e-836d-3df6472072d5",
+        "name": "MP301",
+        "seats": "1",
+        "departure_city": "Paris CDG",
+        "arrival_city": "Paris Orly",
+        "departure_datetime": "2025-11-19T08:14:00.000000+01:00",
+        "arrival_datetime": "2025-11-19T08:25:00.000000+01:00",
+        "company": "Jet priv\u00e9"
+    },
+    {
+        "id": "98a6cd27-4cf5-4e5d-b830-86ca4711a95c",
+        "name": "NF404",
+        "seats": "120",
+        "departure_city": "Zurich",
+        "arrival_city": "Berlin",
+        "departure_datetime": "2025-11-19T08:00:00.000000+01:00",
+        "arrival_datetime": "2025-11-19T08:30:00.000000+01:00",
+        "company": "Air France"
+    }
+]
