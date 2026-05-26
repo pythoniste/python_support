@@ -21,7 +21,8 @@ print()
 #    Elle renvoie une liste de tuples (famille, type, proto, canonname, sockaddr)
 #    et gère IPv4 ET IPv6.
 print("Résolution de example.com :")
-for info in socket.getaddrinfo("example.com", 80, type=socket.SOCK_STREAM):
+hostname = input("Résolution d'un site de votre choix ? ")
+for info in socket.getaddrinfo(hostname, 80, type=socket.SOCK_STREAM):
     famille, _type, _proto, _canon, sockaddr = info
     nom_famille = "IPv4" if famille == socket.AF_INET else "IPv6"
     print(f"  {nom_famille:5s} -> {sockaddr}")
