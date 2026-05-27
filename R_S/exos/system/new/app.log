@@ -1,0 +1,5 @@
+2026-05-27 01:02:10 DEBUG    __main__ : ouverture de la base
+2026-05-27 01:02:10 INFO     __main__ : requête traitée en 12 ms
+2026-05-27 01:02:10 WARNING  __main__ : quota proche de la limite
+2026-05-27 01:02:10 ERROR    __main__ : connexion refusée
+2026-05-27 01:02:10 CRITICAL __main__ : arrêt du service
