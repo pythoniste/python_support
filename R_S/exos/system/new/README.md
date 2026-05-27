@@ -34,6 +34,7 @@ Les corrigés des ateliers se trouvent dans `CORRIGES/` (non versionné).
 | 10  | `10_Logging`             | Tracer une application                          |
 | 11  | `11_Signaux_et_temps`    | Réagir au système, mesurer du temps             |
 | 12  | `12_Curses`              | Interfaces texte plein écran (TUI)              |
+| 13  | `13_Boite_a_outils`      | Modules transverses : tempfile, platform, hashlib, secrets, base64 |
 
 ## Pré-requis techniques
 
