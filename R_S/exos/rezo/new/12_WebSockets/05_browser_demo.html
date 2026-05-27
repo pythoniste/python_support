@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Démo WebSocket depuis le navigateur</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: 2em auto; }
+        #log { background: #f0f0f0; padding: 1em; height: 300px; overflow-y: scroll; }
+        input { width: 70%; padding: 0.5em; }
+        button { padding: 0.5em 1em; }
+    </style>
+</head>
+<body>
+    <h1>Démo WebSocket</h1>
+    <p>À utiliser conjointement avec <code>01_echo_srv.py</code>.</p>
+    <div id="log"></div>
+    <p>
+        <input id="msg" placeholder="Tapez un message" autofocus>
+        <button onclick="envoyer()">Envoyer</button>
+    </p>
+
+    <script>
+        const log = document.getElementById("log");
+        const ws = new WebSocket("ws://127.0.0.1:8765");
+
+        function ajouter(texte) {
+            const ligne = document.createElement("div");
+            ligne.textContent = texte;
+            log.appendChild(ligne);
+            log.scrollTop = log.scrollHeight;
+        }
+
+        ws.onopen = () => ajouter(">>> Connecté");
+        ws.onmessage = (e) => ajouter("<<< " + e.data);
+        ws.onclose = () => ajouter("--- Déconnecté");
+        ws.onerror = (e) => ajouter("!!! Erreur : " + e);
+
+        function envoyer() {
+            const input = document.getElementById("msg");
+            const msg = input.value;
+            if (msg) {
+                ws.send(msg);
+                ajouter(">>> " + msg);
+                input.value = "";
+            }
+        }
+
+        document.getElementById("msg").addEventListener("keydown", (e) => {
+            if (e.key === "Enter") envoyer();
+        });
+    </script>
+</body>
+</html>
