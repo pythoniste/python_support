@@ -1,0 +1,397 @@
+﻿Année;Région;Code Insee région;Département;Code Insee commune;Libellé géographique commune;Nom de l'établissement;Gratuit;Payant;Total;Code Insee département
+2019;Centre-Val de loire;24;Cher;18033;Bourges;Palais Jacques Cœur;16200.0;35230.0;51420.0;18
+2019;Centre-Val de loire;24;Eure-et-Loir;28088;Châteaudun;Château de Châteaudun;8750.0;14050.0;22800.0;28
+2019;Centre-Val de loire;24;Indre;36023;Bouges-le-Château;Château de Bouges;3710.0;7990.0;11700.0;36
+2019;Centre-Val de loire;24;Indre;36143;Nohant-Vic;Maison de George Sand;8710.0;25250.0;33960.0;36
+2019;Centre-Val de loire;24;Indre-et-Loire;37014;Azay-le-Rideau;Château d'Azay-le-Rideau;102140.0;208190.0;310320.0;37
+2019;Centre-Val de loire;24;Loir-et-Cher;41253;Talcy;Château de Talcy;18660.0;9910.0;28570.0;41
+2019;Île-de-France;11;Paris;75056;Paris;Hôtel de la Marine;0.0;0.0;0.0;75
+2019;Île-de-France;11;Yvelines;78517;Rambouillet;Domaine national de Rambouillet;17700.0;29060.0;46750.0;78
+2019;Nouvelle-Aquitaine;75;Dordogne;24289;Montcaret;Villa gallo-romaine de Montcaret;1260.0;2540.0;3800.0;24
+2019;Nouvelle-Aquitaine;75;Dordogne;24582;Villars;Château de Puyguilhem;4200.0;8740.0;12940.0;24
+2019;Occitanie;76;Gard;30351;Villeneuve-lès-Avignon;Fort Saint-André;12700.0;18950.0;31650.0;30
+2019;Pays de la Loire;52;Maine-et-Loire;49007;Angers;Château d'Angers;106470.0;141270.0;247740.0;49
+2019;Pays de la Loire;52;Maine-et-Loire;49140;Fontevraud-l'Abbaye;Abbaye;0.0;0.0;0.0;49
+2019;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13004;Arles;Abbaye de Montmajour;20830.0;32620.0;53450.0;13
+2019;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Hôtel de Sade;1940.0;3150.0;5090.0;13
+2020;Auvergne-Rhône-Alpes;84;Rhône;69123;Lyon;Trésor de la cathédrale de Lyon;21290.0;0.0;21290.0;69
+2020;Bourgogne-Franche-Comté;27;Doubs;25056;Besançon;Cathédrale de Besançon et son Horloge astronomique;0.0;0.0;0.0;25
+2020;Bretagne;53;Morbihan;56034;Carnac;Alignements de Carnac (Sites mégalithiques);0.0;20600.0;20600.0;56
+2020;Centre-Val de loire;24;Eure-et-Loir;28088;Châteaudun;Château de Châteaudun;4870.0;6520.0;11390.0;28
+2020;Centre-Val de loire;24;Loir-et-Cher;41059;Le Controis-en-Sologne;Château de Fougères-sur-Bièvre;3490.0;5300.0;8800.0;41
+2020;Grand Est;44;Marne;51454;Reims;Tour de la cathédrale de Reims;200.0;240.0;440.0;51
+2020;Hauts-de-France;32;Aisne;02219;Coucy-la-Ville;Château de Coucy;4900.0;5540.0;10440.0;02
+2020;Hauts-de-France;32;Aisne;02810;Villers-Cotterêts;Cité internationale de la langue française - château de Villers-Cotterêts;0.0;0.0;0.0;02
+2020;Hauts-de-France;32;Oise;60491;Pierrefonds;Château de Pierrefonds;35600.0;41340.0;76940.0;60
+2020;Île-de-France;11;Paris;75056;Paris;Hôtel de Sully;0.0;130.0;130.0;75
+2020;Île-de-France;11;Val-de-Marne;94080;Vincennes;Château de Vincennes;25500.0;22130.0;47630.0;94
+2020;Nouvelle-Aquitaine;75;Charente-Maritime;17300;La Rochelle;Tours de La Rochelle;36470.0;30360.0;66830.0;17
+2020;Nouvelle-Aquitaine;75;Dordogne;24172;Les Eyzies;Sites préhistoriques de la vallée de la Vézère grotte de Font de Gaume;2540.0;3670.0;6210.0;24
+2020;Nouvelle-Aquitaine;75;Dordogne;24289;Montcaret;Villa gallo-romaine de Montcaret;550.0;950.0;1500.0;24
+2020;Nouvelle-Aquitaine;75;Gironde;33063;Bordeaux;Tour Pey-Berland;6750.0;5230.0;11980.0;33
+2020;Occitanie;76;Lot;46009;Assier;Château d'Assier;890.0;1330.0;2220.0;46
+2020;Occitanie;76;Pyrénées-Orientales;66190;Salses-le-Château;Forteresse de Salses;18650.0;26000.0;44640.0;66
+2021;Auvergne-Rhône-Alpes;84;Rhône;69123;Lyon;Trésor de la cathédrale de Lyon;26280.0;0.0;26280.0;69
+2021;Bretagne;53;Morbihan;56116;Locmariaquer;Sites des mégalithiques de Locmariaquer;11220.0;27720.0;38940.0;56
+2021;Centre-Val de loire;24;Cher;18033;Bourges;Palais Jacques Cœur;9870.0;22770.0;32640.0;18
+2021;Centre-Val de loire;24;Eure-et-Loir;28085;Chartres;Cathédrale, tours et trésor de Chartres;1680.0;3100.0;4770.0;28
+2021;Centre-Val de loire;24;Eure-et-Loir;28088;Châteaudun;Château de Châteaudun;4960.0;7570.0;12530.0;28
+2021;Hauts-de-France;32;Aisne;02219;Coucy-la-Ville;Château de Coucy;4560.0;5590.0;10150.0;02
+2021;Hauts-de-France;32;Aisne;02810;Villers-Cotterêts;Cité internationale de la langue française - château de Villers-Cotterêts;0.0;0.0;0.0;02
+2021;Île-de-France;11;Hauts-de-Seine;92064;Saint-Cloud;Domaine national de Saint-Cloud;1800.0;156830.0;158630.0;92
+2021;Île-de-France;11;Paris;75056;Paris;Hôtel de Brienne;0.0;0.0;0.0;75
+2021;Île-de-France;11;Paris;75056;Paris;Chapelle expiatoire;5180.0;4130.0;9310.0;75
+2021;Île-de-France;11;Paris;75056;Paris;Colonne de Juillet;0.0;1200.0;1200.0;75
+2021;Normandie;28;Eure;27052;Le Bec-Hellouin;Abbaye du Bec-Hellouin;530.0;3390.0;3930.0;27
+2021;Normandie;28;Manche;50353;Le Mont-Saint-Michel;Abbaye du Mont-Saint-Michel;214260.0;394160.0;608420.0;50
+2021;Normandie;28;Orne;61074;Carrouges;Château de Carrouges;4480.0;9590.0;14070.0;61
+2021;Nouvelle-Aquitaine;75;Vienne;86061;Charroux;Abbaye de Charroux;4540.0;0.0;4540.0;86
+2021;Occitanie;76;Haute-Garonne;31385;Montmaurin;Sites et musée archéologique de Montmaurin;1570.0;2220.0;3780.0;31
+2021;Occitanie;76;Hérault;34172;Montpellier;Montpellier - Hôtel de Lunas;0.0;0.0;0.0;34
+2021;Occitanie;76;Hérault;34183;Nissan-lez-Enserune;Oppidum et musée archéologique d'Ensérune;2600.0;5450.0;8050.0;34
+2021;Occitanie;76;Lot;46271;Saint-Jean-Lespinasse;Château de Montal;3950.0;9000.0;12940.0;46
+2021;Pays de la Loire;52;Maine-et-Loire;49007;Angers;Château d'Angers;70140.0;84190.0;154330.0;49
+2022;Centre-Val de loire;24;Cher;18033;Bourges;Palais Jacques Cœur;15330.0;34060.0;49390.0;18
+2022;Centre-Val de loire;24;Indre-et-Loire;37014;Azay-le-Rideau;Château d'Azay-le-Rideau;86880.0;182870.0;269750.0;37
+2022;Centre-Val de loire;24;Loir-et-Cher;41059;Le Controis-en-Sologne;Château de Fougères-sur-Bièvre;6050.0;10410.0;16460.0;41
+2022;Grand Est;44;Aube;10259;La Motte-Tilly;Château de la Motte Tilly;6200.0;9540.0;15750.0;10
+2022;Grand Est;44;Meurthe-et-Moselle;54252;Haroué;Château d'Haroué;4490.0;5180.0;9670.0;54
+2022;Île-de-France;11;Paris;75056;Paris;Hôtel de Sully;0.0;370.0;370.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Chapelle expiatoire;9490.0;9680.0;19170.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Colonne de Juillet;140.0;2260.0;2400.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Conciergerie;215100.0;239640.0;454730.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Domaine national du Palais-Royal;0.0;30.0;30.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Sainte-Chapelle du Palais;460100.0;741520.0;1201620.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Tours de la cathédrale Notre-Dame de Paris;0.0;0.0;0.0;75
+2022;Île-de-France;11;Seine-et-Marne;77083;Champs-sur-Marne;Château de Champs-sur-Marne;16000.0;33630.0;49630.0;77
+2022;Normandie;28;Orne;61074;Carrouges;Château de Carrouges;7820.0;16110.0;23930.0;61
+2022;Occitanie;76;Pyrénées-Orientales;66190;Salses-le-Château;Forteresse de Salses;33930.0;46700.0;80640.0;66
+2022;Provence-Alpes- Côte d’Azur;93;Hautes-Alpes;05082;Mont-Dauphin;Place forte de Mont-Dauphin;6180.0;14390.0;20570.0;05
+2022;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Hôtel de Sade;1860.0;1870.0;3730.0;13
+2022;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Site archéologique de Glanum;25470.0;45300.0;70770.0;13
+2019;Auvergne-Rhône-Alpes;84;Haute-Loire;43157;Le Puy-en-Velay;Ensemble cathédrale du Puy-en-Velay;13740.0;17380.0;31120.0;43
+2019;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63458;Villeneuve;Château de Villeneuve-Lembron;4390.0;3620.0;8020.0;63
+2019;Auvergne-Rhône-Alpes;84;Rhône;69123;Lyon;Trésor de la cathédrale de Lyon;0.0;0.0;0.0;69
+2019;Centre-Val de loire;24;Cher;18033;Bourges;Cryptes et tour de la cathédrale;17020.0;21840.0;38860.0;18
+2019;Centre-Val de loire;24;Loir-et-Cher;41059;Le Controis-en-Sologne;Château de Fougères-sur-Bièvre;6090.0;11020.0;17110.0;41
+2019;Grand Est;44;Aube;10259;La Motte-Tilly;Château de la Motte Tilly;5930.0;9190.0;15120.0;10
+2019;Grand Est;44;Meurthe-et-Moselle;54252;Haroué;Château d'Haroué;0.0;0.0;0.0;54
+2019;Île-de-France;11;Paris;75056;Paris;Colonne de Juillet;0.0;0.0;0.0;75
+2019;Île-de-France;11;Paris;75056;Paris;Domaine national du Palais-Royal;0.0;0.0;0.0;75
+2019;Île-de-France;11;Yvelines;78358;Maisons-Laffitte;Château de Maisons;10680.0;12410.0;23090.0;78
+2019;Nouvelle-Aquitaine;75;Charente-Maritime;17300;La Rochelle;Tours de La Rochelle;58800.0;58890.0;117690.0;17
+2019;Occitanie;76;Haute-Garonne;31385;Montmaurin;Sites et musée archéologique de Montmaurin;2700.0;3780.0;6470.0;31
+2019;Occitanie;76;Hérault;34183;Nissan-lez-Enserune;Oppidum et musée archéologique d'Ensérune;5480.0;11800.0;17280.0;34
+2019;Pays de la Loire;52;Vendée;85278;Saint-Vincent-sur-Jard;Maison de Georges Clemenceau;7280.0;16740.0;24020.0;85
+2019;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06104;Roquebrune-Cap-Martin;Cap Moderne, Eilen Gray et Le Corbusier au Cap Martin;730.0;7730.0;8460.0;06
+2019;Provence-Alpes- Côte d’Azur;93;Var;83136;Le Thoronet;Abbaye du Thoronet;23370.0;72860.0;96230.0;83
+2020;Auvergne-Rhône-Alpes;84;Ain;01053;Bourg-en-Bresse;Monastère royal de Brou;15770.0;28140.0;43900.0;01
+2020;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63418;Sermentizon;Château d'Aulteribe;2020.0;2070.0;4090.0;63
+2020;Bretagne;53;Côtes-d'Armor;22362;Tréguier;Maison d'Ernest Renan;820.0;1280.0;2100.0;22
+2020;Centre-Val de loire;24;Indre;36143;Nohant-Vic;Maison de George Sand;5050.0;12710.0;17760.0;36
+2020;Grand Est;44;Aube;10259;La Motte-Tilly;Château de la Motte Tilly;3160.0;3470.0;6630.0;10
+2020;Hauts-de-France;32;Nord;59163;Croix;Villa Cavrois;23430.0;29040.0;52480.0;59
+2020;Hauts-de-France;32;Somme;80021;Amiens;Tours et trésor de la cathédrale d'Amiens;1260.0;1270.0;2530.0;80
+2020;Île-de-France;11;Paris;75056;Paris;Conciergerie;67910.0;69160.0;137070.0;75
+2020;Île-de-France;11;Paris;75056;Paris;Domaine national du Palais-Royal;0.0;0.0;0.0;75
+2020;Île-de-France;11;Paris;75056;Paris;Panthéon;138290.0;84930.0;223220.0;75
+2020;Île-de-France;11;Seine-et-Marne;77237;Jossigny;Château de Jossigny;0.0;0.0;0.0;77
+2020;Île-de-France;11;Yvelines;78358;Maisons-Laffitte;Château de Maisons;7390.0;7030.0;14420.0;78
+2020;Normandie;28;Orne;61074;Carrouges;Château de Carrouges;3940.0;8440.0;12390.0;61
+2020;Nouvelle-Aquitaine;75;Dordogne;24582;Villars;Château de Puyguilhem;2960.0;5990.0;8950.0;24
+2020;Nouvelle-Aquitaine;75;Gironde;33081;Cadillac-sur-Garonne;Château ducal de Cadillac;4080.0;6830.0;10910.0;33
+2020;Nouvelle-Aquitaine;75;Gironde;33339;Prignac-et-Marcamps;Grotte de Pair-non-Pair;1700.0;1260.0;2960.0;33
+2020;Occitanie;76;Aude;11069;Carcassonne;Château et remparts de la cité de Carcassonne;103460.0;163290.0;266750.0;11
+2020;Occitanie;76;Gard;30003;Aigues-Mortes;Tours et remparts d'Aigues-Mortes;48350.0;62570.0;110920.0;30
+2020;Occitanie;76;Gard;30351;Villeneuve-lès-Avignon;Fort Saint-André;9380.0;11160.0;20540.0;30
+2020;Occitanie;76;Hérault;34172;Montpellier;Montpellier - Hôtel de Lunas;0.0;0.0;0.0;34
+2020;Occitanie;76;Lot;46271;Saint-Jean-Lespinasse;Château de Montal;3460.0;7390.0;10850.0;46
+2020;Occitanie;76;Tarn-et-Garonne;82069;Ginals;Abbaye de Beaulieu-en-Rouergue;0.0;0.0;0.0;82
+2020;Occitanie;76;Tarn-et-Garonne;82074;Gramont;Château de Gramont;1100.0;1710.0;2810.0;82
+2020;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13004;Arles;Abbaye de Montmajour;5900.0;14510.0;20420.0;13
+2020;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13055;Marseille;Château d'If;9180.0;19700.0;28870.0;13
+2020;Provence-Alpes- Côte d’Azur;93;Var;83019;Bormes-les-Mimosas;Fort de Brégançon;0.0;0.0;0.0;83
+2021;Grand Est;44;Marne;51454;Reims;Palais du Tau;20470.0;32740.0;53210.0;51
+2021;Île-de-France;11;Paris;75056;Paris;Hôtel de la Marine;74610.0;136340.0;210940.0;75
+2021;Île-de-France;11;Seine-et-Marne;77237;Jossigny;Château de Jossigny;4180.0;1870.0;6050.0;77
+2021;Île-de-France;11;Yvelines;78358;Maisons-Laffitte;Château de Maisons;7040.0;8050.0;15090.0;78
+2021;Nouvelle-Aquitaine;75;Gironde;33081;Cadillac-sur-Garonne;Château ducal de Cadillac;3840.0;7120.0;10970.0;33
+2021;Occitanie;76;Aude;11069;Carcassonne;Château et remparts de la cité de Carcassonne;115900.0;200510.0;316400.0;11
+2021;Occitanie;76;Gard;30003;Aigues-Mortes;Tours et remparts d'Aigues-Mortes;57500.0;88440.0;145940.0;30
+2021;Occitanie;76;Gard;30351;Villeneuve-lès-Avignon;Fort Saint-André;10770.0;12950.0;23720.0;30
+2021;Occitanie;76;Lot;46009;Assier;Château d'Assier;1170.0;2070.0;3240.0;46
+2021;Occitanie;76;Tarn-et-Garonne;82069;Ginals;Abbaye de Beaulieu-en-Rouergue;190.0;0.0;190.0;82
+2021;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06132;Saorge;Monastère de Saorge;1650.0;1840.0;3490.0;06
+2021;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13004;Arles;Abbaye de Montmajour;17710.0;22280.0;39990.0;13
+2021;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Site archéologique de Glanum;14950.0;31540.0;46490.0;13
+2021;Provence-Alpes- Côte d’Azur;93;Var;83061;Fréjus;Cloître de la cathédrale de Fréjus;5530.0;9110.0;14630.0;83
+2022;Auvergne-Rhône-Alpes;84;Allier;03059;Chareil-Cintrat;Château de Chareil-Cintrat;1140.0;1010.0;2150.0;03
+2022;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63458;Villeneuve;Château de Villeneuve-Lembron;3460.0;3160.0;6610.0;63
+2022;Bourgogne-Franche-Comté;27;Côte-d'Or;21122;Bussy-le-Grand;Château de Bussy-Rabutin;8370.0;16610.0;24970.0;21
+2022;Bretagne;53;Morbihan;56034;Carnac;Alignements de Carnac (Sites mégalithiques);0.0;36680.0;36680.0;56
+2022;Centre-Val de loire;24;Cher;18033;Bourges;Cryptes et tour de la cathédrale;7660.0;10580.0;18240.0;18
+2022;Centre-Val de loire;24;Eure-et-Loir;28085;Chartres;Cathédrale, tours et trésor de Chartres;2490.0;5100.0;7590.0;28
+2022;Centre-Val de loire;24;Indre;36023;Bouges-le-Château;Château de Bouges;5770.0;16670.0;22440.0;36
+2022;Centre-Val de loire;24;Loir-et-Cher;41253;Talcy;Château de Talcy;4200.0;7690.0;11890.0;41
+2022;Hauts-de-France;32;Aisne;02810;Villers-Cotterêts;Cité internationale de la langue française - château de Villers-Cotterêts;0.0;0.0;0.0;02
+2022;Île-de-France;11;Hauts-de-Seine;92064;Saint-Cloud;Domaine national de Saint-Cloud;1270.0;157240.0;158510.0;92
+2022;Île-de-France;11;Paris;75056;Paris;Arc de Triomphe;669950.0;1084800.0;1754750.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Musée des Plans Reliefs;0.0;0.0;0.0;75
+2022;Île-de-France;11;Yvelines;78498;Poissy;Villa Savoye;12350.0;13520.0;25870.0;78
+2022;Nouvelle-Aquitaine;75;Deux-Sèvres;79196;Plaine-et-Vallées;Château d'Oiron;7770.0;15060.0;22830.0;79
+2022;Nouvelle-Aquitaine;75;Vienne;86253;Sanxay;Site gallo-romain de Sanxay;2500.0;2570.0;5070.0;86
+2022;Occitanie;76;Gard;30003;Aigues-Mortes;Tours et remparts d'Aigues-Mortes;85560.0;124080.0;209640.0;30
+2022;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06150;La Turbie;Trophée d'Auguste;4240.0;10010.0;14250.0;06
+2022;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13004;Arles;Abbaye de Montmajour;13710.0;49500.0;63220.0;13
+2019;Auvergne-Rhône-Alpes;84;Allier;03059;Chareil-Cintrat;Château de Chareil-Cintrat;770.0;1140.0;1920.0;03
+2019;Bourgogne-Franche-Comté;27;Côte-d'Or;21122;Bussy-le-Grand;Château de Bussy-Rabutin;9480.0;16870.0;26350.0;21
+2019;Bourgogne-Franche-Comté;27;Saône-et-Loire;71137;Cluny;Abbaye de Cluny;32600.0;97550.0;130150.0;71
+2019;Bretagne;53;Finistère;29186;Plouezoc'h;Cairn de Barnenez;13260.0;29540.0;42800.0;29
+2019;Bretagne;53;Morbihan;56116;Locmariaquer;Sites des mégalithiques de Locmariaquer;18730.0;43440.0;62170.0;56
+2019;Hauts-de-France;32;Aisne;02810;Villers-Cotterêts;Cité internationale de la langue française - château de Villers-Cotterêts;0.0;0.0;0.0;02
+2019;Hauts-de-France;32;Nord;59163;Croix;Villa Cavrois;38030.0;67080.0;105120.0;59
+2019;Île-de-France;11;Paris;75056;Paris;Chapelle expiatoire;10170.0;11470.0;21630.0;75
+2019;Île-de-France;11;Paris;75056;Paris;Musée des Plans Reliefs;70.0;720.0;790.0;75
+2019;Île-de-France;11;Paris;75056;Paris;Panthéon;378370.0;497300.0;875670.0;75
+2019;Île-de-France;11;Seine-et-Marne;77083;Champs-sur-Marne;Château de Champs-sur-Marne;22470.0;17000.0;39470.0;77
+2019;Île-de-France;11;Seine-et-Marne;77237;Jossigny;Château de Jossigny;0.0;0.0;0.0;77
+2019;Normandie;28;Eure;27052;Le Bec-Hellouin;Abbaye du Bec-Hellouin;460.0;5350.0;5810.0;27
+2019;Normandie;28;Manche;50353;Le Mont-Saint-Michel;Abbaye du Mont-Saint-Michel;424720.0;1054580.0;1479290.0;50
+2019;Nouvelle-Aquitaine;75;Gironde;33063;Bordeaux;Tour Pey-Berland;38660.0;42170.0;80830.0;33
+2019;Nouvelle-Aquitaine;75;Deux-Sèvres;79196;Plaine-et-Vallées;Château d'Oiron;8360.0;15240.0;23600.0;79
+2019;Nouvelle-Aquitaine;75;Vienne;86253;Sanxay;Site gallo-romain de Sanxay;1750.0;2540.0;4290.0;86
+2019;Occitanie;76;Pyrénées-Orientales;66190;Salses-le-Château;Forteresse de Salses;32200.0;51420.0;83620.0;66
+2019;Occitanie;76;Tarn-et-Garonne;82069;Ginals;Abbaye de Beaulieu-en-Rouergue;4210.0;6060.0;10270.0;82
+2019;Occitanie;76;Tarn-et-Garonne;82074;Gramont;Château de Gramont;1450.0;2120.0;3570.0;82
+2019;Provence-Alpes- Côte d’Azur;93;Hautes-Alpes;05082;Mont-Dauphin;Place forte de Mont-Dauphin;3250.0;8390.0;11630.0;05
+2019;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06132;Saorge;Monastère de Saorge;2580.0;4850.0;7430.0;06
+2019;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06150;La Turbie;Trophée d'Auguste;4920.0;10120.0;15040.0;06
+2019;Provence-Alpes- Côte d’Azur;93;Var;83019;Bormes-les-Mimosas;Fort de Brégançon;0.0;0.0;0.0;83
+2019;Provence-Alpes- Côte d’Azur;93;Var;83061;Fréjus;Cloître de la cathédrale de Fréjus;7680.0;13540.0;21220.0;83
+2020;Auvergne-Rhône-Alpes;84;Ain;01160;Ferney-Voltaire;Château de Voltaire;5020.0;7810.0;12830.0;01
+2020;Bourgogne-Franche-Comté;27;Côte-d'Or;21122;Bussy-le-Grand;Château de Bussy-Rabutin;5560.0;9170.0;14720.0;21
+2020;Centre-Val de loire;24;Eure-et-Loir;28085;Chartres;Cathédrale, tours et trésor de Chartres;1490.0;2300.0;3790.0;28
+2020;Centre-Val de loire;24;Indre;36023;Bouges-le-Château;Château de Bouges;1730.0;3560.0;5300.0;36
+2020;Centre-Val de loire;24;Indre-et-Loire;37261;Tours;Cloître de la Psalette cathédrale;3540.0;3570.0;7100.0;37
+2020;Centre-Val de loire;24;Loir-et-Cher;41034;Chambord;Domaine national de Chambord;167010.0;408890.0;575910.0;41
+2020;Grand Est;44;Marne;51454;Reims;Palais du Tau;16480.0;24400.0;40880.0;51
+2020;Grand Est;44;Meurthe-et-Moselle;54252;Haroué;Château d'Haroué;0.0;0.0;0.0;54
+2020;Île-de-France;11;Hauts-de-Seine;92072;Sèvres;Maison des Jardies;50.0;120.0;170.0;92
+2020;Île-de-France;11;Paris;75056;Paris;Hôtel de Brienne;0.0;0.0;0.0;75
+2020;Île-de-France;11;Paris;75056;Paris;Colonne de Juillet;0.0;0.0;0.0;75
+2020;Île-de-France;11;Paris;75056;Paris;Musée des Plans Reliefs;0.0;310.0;310.0;75
+2020;Île-de-France;11;Paris;75056;Paris;Tours de la cathédrale Notre-Dame de Paris;0.0;0.0;0.0;75
+2020;Île-de-France;11;Yvelines;78498;Poissy;Villa Savoye;8410.0;9160.0;17580.0;78
+2020;Île-de-France;11;Yvelines;78517;Rambouillet;Domaine national de Rambouillet;10070.0;11870.0;21930.0;78
+2020;Nouvelle-Aquitaine;75;Pyrénées-Atlantiques;64102;Bayonne;Cloître de la cathédrale de Bayonne;0.0;0.0;0.0;64
+2020;Nouvelle-Aquitaine;75;Vienne;86061;Charroux;Abbaye de Charroux;2740.0;0.0;2740.0;86
+2020;Occitanie;76;Haute-Garonne;31385;Montmaurin;Sites et musée archéologique de Montmaurin;1670.0;2450.0;4120.0;31
+2020;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Hôtel de Sade;0.0;0.0;0.0;13
+2020;Provence-Alpes- Côte d’Azur;93;Var;83061;Fréjus;Cloître de la cathédrale de Fréjus;4330.0;6560.0;10900.0;83
+2021;Bourgogne-Franche-Comté;27;Doubs;25056;Besançon;Cathédrale de Besançon et son Horloge astronomique;0.0;0.0;0.0;25
+2021;Centre-Val de loire;24;Cher;18033;Bourges;Cryptes et tour de la cathédrale;3700.0;4620.0;8320.0;18
+2021;Centre-Val de loire;24;Indre;36023;Bouges-le-Château;Château de Bouges;1050.0;2150.0;3200.0;36
+2021;Centre-Val de loire;24;Indre-et-Loire;37014;Azay-le-Rideau;Château d'Azay-le-Rideau;63710.0;116750.0;180460.0;37
+2021;Grand Est;44;Marne;51454;Reims;Tour de la cathédrale de Reims;3650.0;4380.0;8030.0;51
+2021;Grand Est;44;Meurthe-et-Moselle;54252;Haroué;Château d'Haroué;2400.0;3490.0;5890.0;54
+2021;Hauts-de-France;32;Pas-de-Calais;62894;Wimille;Colonne de la Grande Armée;1820.0;3220.0;5040.0;62
+2021;Île-de-France;11;Hauts-de-Seine;92072;Sèvres;Maison des Jardies;210.0;160.0;370.0;92
+2021;Île-de-France;11;Paris;75056;Paris;Arc de Triomphe;249670.0;260660.0;510340.0;75
+2021;Île-de-France;11;Paris;75056;Paris;Conciergerie;88340.0;74990.0;163340.0;75
+2021;Île-de-France;11;Paris;75056;Paris;Sainte-Chapelle du Palais;172380.0;200950.0;373330.0;75
+2021;Île-de-France;11;Paris;75056;Paris;Tours de la cathédrale Notre-Dame de Paris;0.0;0.0;0.0;75
+2021;Île-de-France;11;Seine-et-Marne;77083;Champs-sur-Marne;Château de Champs-sur-Marne;9870.0;27770.0;37640.0;77
+2021;Nouvelle-Aquitaine;75;Charente-Maritime;17300;La Rochelle;Tours de La Rochelle;35140.0;34360.0;69500.0;17
+2021;Nouvelle-Aquitaine;75;Gironde;33063;Bordeaux;Tour Pey-Berland;13450.0;9330.0;22770.0;33
+2021;Nouvelle-Aquitaine;75;Deux-Sèvres;79196;Plaine-et-Vallées;Château d'Oiron;5690.0;9400.0;15080.0;79
+2021;Nouvelle-Aquitaine;75;Vienne;86253;Sanxay;Site gallo-romain de Sanxay;1620.0;1940.0;3560.0;86
+2021;Occitanie;76;Lot;46228;Prudhomat;Château de Castelnau-Bretenoux;12210.0;24430.0;36630.0;46
+2021;Occitanie;76;Pyrénées-Orientales;66190;Salses-le-Château;Forteresse de Salses;22020.0;36190.0;58200.0;66
+2021;Pays de la Loire;52;Vendée;85278;Saint-Vincent-sur-Jard;Maison de Georges Clemenceau;4890.0;11590.0;16480.0;85
+2021;Provence-Alpes- Côte d’Azur;93;Hautes-Alpes;05082;Mont-Dauphin;Place forte de Mont-Dauphin;4450.0;9870.0;14320.0;05
+2021;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06011;Beaulieu-sur-Mer;Villa Kerylos;11040.0;21280.0;32320.0;06
+2021;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Hôtel de Sade;1520.0;2030.0;3560.0;13
+2022;Auvergne-Rhône-Alpes;84;Ain;01053;Bourg-en-Bresse;Monastère royal de Brou;28020.0;48780.0;76800.0;01
+2022;Hauts-de-France;32;Oise;60491;Pierrefonds;Château de Pierrefonds;59330.0;86490.0;145820.0;60
+2022;Île-de-France;11;Paris;75056;Paris;Hôtel de Brienne;0.0;0.0;0.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Panthéon;484820.0;464940.0;949760.0;75
+2022;Île-de-France;11;Paris;75056;Paris;Hôtel de la Marine;143110.0;210650.0;353760.0;75
+2022;Normandie;28;Manche;50353;Le Mont-Saint-Michel;Abbaye du Mont-Saint-Michel;404930.0;880680.0;1285610.0;50
+2022;Nouvelle-Aquitaine;75;Gironde;33081;Cadillac-sur-Garonne;Château ducal de Cadillac;6210.0;11470.0;17680.0;33
+2022;Nouvelle-Aquitaine;75;Gironde;33339;Prignac-et-Marcamps;Grotte de Pair-non-Pair;5400.0;4980.0;10380.0;33
+2022;Nouvelle-Aquitaine;75;Vienne;86061;Charroux;Abbaye de Charroux;5480.0;0.0;5480.0;86
+2022;Occitanie;76;Gard;30351;Villeneuve-lès-Avignon;Fort Saint-André;14370.0;20440.0;34800.0;30
+2022;Occitanie;76;Hérault;34183;Nissan-lez-Enserune;Oppidum et musée archéologique d'Ensérune;6970.0;10220.0;17190.0;34
+2022;Occitanie;76;Lot;46271;Saint-Jean-Lespinasse;Château de Montal;4820.0;10610.0;15430.0;46
+2022;Occitanie;76;Tarn-et-Garonne;82069;Ginals;Abbaye de Beaulieu-en-Rouergue;6300.0;12350.0;18650.0;82
+2022;Pays de la Loire;52;Maine-et-Loire;49140;Fontevraud-l'Abbaye;Abbaye;0.0;0.0;0.0;49
+2022;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06104;Roquebrune-Cap-Martin;Cap Moderne, Eilen Gray et Le Corbusier au Cap Martin;600.0;10640.0;11240.0;06
+2022;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06132;Saorge;Monastère de Saorge;3320.0;5250.0;8570.0;06
+2019;Auvergne-Rhône-Alpes;84;Ain;01160;Ferney-Voltaire;Château de Voltaire;10000.0;20320.0;30320.0;01
+2019;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63418;Sermentizon;Château d'Aulteribe;5510.0;4770.0;10280.0;63
+2019;Bourgogne-Franche-Comté;27;Doubs;25056;Besançon;Cathédrale de Besançon et son Horloge astronomique;3270.0;6970.0;10240.0;25
+2019;Bourgogne-Franche-Comté;27;Saône-et-Loire;71032;Berzé-la-Ville;Chapelle des Moines;1530.0;9170.0;10700.0;71
+2019;Centre-Val de loire;24;Loir-et-Cher;41034;Chambord;Domaine national de Chambord;329090.0;801760.0;1130850.0;41
+2019;Grand Est;44;Marne;51454;Reims;Tour de la cathédrale de Reims;5770.0;4900.0;10670.0;51
+2019;Hauts-de-France;32;Aisne;02219;Coucy-la-Ville;Château de Coucy;7280.0;8030.0;15310.0;02
+2019;Hauts-de-France;32;Pas-de-Calais;62894;Wimille;Colonne de la Grande Armée;2500.0;2190.0;4690.0;62
+2019;Île-de-France;11;Hauts-de-Seine;92072;Sèvres;Maison des Jardies;560.0;540.0;1100.0;92
+2019;Île-de-France;11;Paris;75056;Paris;Hôtel de Brienne;0.0;0.0;0.0;75
+2019;Île-de-France;11;Paris;75056;Paris;Sainte-Chapelle du Palais;374970.0;1000640.0;1375610.0;75
+2019;Île-de-France;11;Paris;75056;Paris;Tours de la cathédrale Notre-Dame de Paris;43640.0;82410.0;126050.0;75
+2019;Île-de-France;11;Seine-Saint-Denis;93066;Saint-Denis;Basilique de Saint-Denis;49190.0;89950.0;139140.0;93
+2019;Normandie;28;Orne;61074;Carrouges;Château de Carrouges;5190.0;10680.0;15870.0;61
+2019;Nouvelle-Aquitaine;75;Dordogne;24172;Les Eyzies;Sites préhistoriques de la vallée de la Vézère grotte de Font de Gaume;10930.0;24330.0;35250.0;24
+2019;Nouvelle-Aquitaine;75;Gironde;33339;Prignac-et-Marcamps;Grotte de Pair-non-Pair;6130.0;4090.0;10220.0;33
+2019;Nouvelle-Aquitaine;75;Gironde;33505;La Sauve;Abbaye de La Sauve-Majeure;6250.0;10830.0;17080.0;33
+2019;Nouvelle-Aquitaine;75;Pyrénées-Atlantiques;64102;Bayonne;Cloître de la cathédrale de Bayonne;0.0;0.0;0.0;64
+2019;Occitanie;76;Aude;11069;Carcassonne;Château et remparts de la cité de Carcassonne;219400.0;401740.0;621150.0;11
+2019;Occitanie;76;Gard;30003;Aigues-Mortes;Tours et remparts d'Aigues-Mortes;79560.0;112040.0;191600.0;30
+2019;Occitanie;76;Lot;46228;Prudhomat;Château de Castelnau-Bretenoux;15630.0;28310.0;43950.0;46
+2019;Occitanie;76;Lot;46271;Saint-Jean-Lespinasse;Château de Montal;5580.0;13220.0;18790.0;46
+2019;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13055;Marseille;Château d'If;26050.0;80040.0;106080.0;13
+2019;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Site archéologique de Glanum;23490.0;45710.0;69200.0;13
+2020;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63458;Villeneuve;Château de Villeneuve-Lembron;1790.0;1690.0;3480.0;63
+2020;Bourgogne-Franche-Comté;27;Saône-et-Loire;71032;Berzé-la-Ville;Chapelle des Moines;580.0;2390.0;2960.0;71
+2020;Bourgogne-Franche-Comté;27;Saône-et-Loire;71137;Cluny;Abbaye de Cluny;21410.0;46710.0;68120.0;71
+2020;Bretagne;53;Finistère;29186;Plouezoc'h;Cairn de Barnenez;8540.0;17340.0;25880.0;29
+2020;Centre-Val de loire;24;Cher;18033;Bourges;Cryptes et tour de la cathédrale;890.0;1170.0;2060.0;18
+2020;Centre-Val de loire;24;Loir-et-Cher;41253;Talcy;Château de Talcy;3320.0;4960.0;8280.0;41
+2020;Île-de-France;11;Paris;75056;Paris;Arc de Triomphe;227560.0;201090.0;428640.0;75
+2020;Île-de-France;11;Paris;75056;Paris;Chapelle expiatoire;5000.0;3410.0;8400.0;75
+2020;Île-de-France;11;Paris;75056;Paris;Hôtel de la Marine;0.0;0.0;0.0;75
+2020;Île-de-France;11;Seine-et-Marne;77083;Champs-sur-Marne;Château de Champs-sur-Marne;13250.0;8360.0;21600.0;77
+2020;Île-de-France;11;Seine-Saint-Denis;93066;Saint-Denis;Basilique de Saint-Denis;19770.0;24270.0;44030.0;93
+2020;Nouvelle-Aquitaine;75;Vienne;86253;Sanxay;Site gallo-romain de Sanxay;1340.0;1760.0;3100.0;86
+2020;Occitanie;76;Lot;46228;Prudhomat;Château de Castelnau-Bretenoux;10500.0;19160.0;29650.0;46
+2020;Pays de la Loire;52;Maine-et-Loire;49007;Angers;Château d'Angers;62570.0;63910.0;126480.0;49
+2020;Pays de la Loire;52;Maine-et-Loire;49140;Fontevraud-l'Abbaye;Abbaye;0.0;0.0;0.0;49
+2020;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06104;Roquebrune-Cap-Martin;Cap Moderne, Eilen Gray et Le Corbusier au Cap Martin;0.0;890.0;890.0;06
+2020;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13100;Saint-Rémy-de-Provence;Site archéologique de Glanum;12930.0;21850.0;34780.0;13
+2021;Auvergne-Rhône-Alpes;84;Allier;03059;Chareil-Cintrat;Château de Chareil-Cintrat;650.0;720.0;1360.0;03
+2021;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63418;Sermentizon;Château d'Aulteribe;3010.0;3260.0;6260.0;63
+2021;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63458;Villeneuve;Château de Villeneuve-Lembron;2510.0;3170.0;5680.0;63
+2021;Bourgogne-Franche-Comté;27;Saône-et-Loire;71137;Cluny;Abbaye de Cluny;19860.0;61950.0;81810.0;71
+2021;Bretagne;53;Morbihan;56034;Carnac;Alignements de Carnac (Sites mégalithiques);20.0;25270.0;25290.0;56
+2021;Centre-Val de loire;24;Loir-et-Cher;41034;Chambord;Domaine national de Chambord;203000.0;503610.0;707710.0;41
+2021;Grand Est;44;Aube;10259;La Motte-Tilly;Château de la Motte Tilly;4890.0;5570.0;10460.0;10
+2021;Hauts-de-France;32;Nord;59163;Croix;Villa Cavrois;22600.0;31480.0;54070.0;59
+2021;Hauts-de-France;32;Oise;60491;Pierrefonds;Château de Pierrefonds;39790.0;49060.0;88850.0;60
+2021;Île-de-France;11;Paris;75056;Paris;Hôtel de Sully;0.0;140.0;140.0;75
+2021;Île-de-France;11;Paris;75056;Paris;Domaine national du Palais-Royal;0.0;0.0;0.0;75
+2021;Île-de-France;11;Paris;75056;Paris;Musée des Plans Reliefs;0.0;30.0;30.0;75
+2021;Île-de-France;11;Seine-Saint-Denis;93066;Saint-Denis;Basilique de Saint-Denis;21830.0;30740.0;52570.0;93
+2021;Île-de-France;11;Yvelines;78517;Rambouillet;Domaine national de Rambouillet;11850.0;16800.0;28640.0;78
+2021;Nouvelle-Aquitaine;75;Dordogne;24289;Montcaret;Villa gallo-romaine de Montcaret;990.0;1900.0;2880.0;24
+2021;Nouvelle-Aquitaine;75;Dordogne;24582;Villars;Château de Puyguilhem;3250.0;7030.0;10270.0;24
+2021;Nouvelle-Aquitaine;75;Gironde;33339;Prignac-et-Marcamps;Grotte de Pair-non-Pair;3150.0;3180.0;6330.0;33
+2021;Pays de la Loire;52;Maine-et-Loire;49140;Fontevraud-l'Abbaye;Abbaye;0.0;0.0;0.0;49
+2021;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06104;Roquebrune-Cap-Martin;Cap Moderne, Eilen Gray et Le Corbusier au Cap Martin;280.0;6850.0;7130.0;06
+2021;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13055;Marseille;Château d'If;11730.0;30020.0;41750.0;13
+2021;Provence-Alpes- Côte d’Azur;93;Var;83019;Bormes-les-Mimosas;Fort de Brégançon;0.0;0.0;0.0;83
+2021;Provence-Alpes- Côte d’Azur;93;Var;83136;Le Thoronet;Abbaye du Thoronet;13720.0;40350.0;54060.0;83
+2022;Auvergne-Rhône-Alpes;84;Ain;01160;Ferney-Voltaire;Château de Voltaire;8300.0;16220.0;24520.0;01
+2022;Auvergne-Rhône-Alpes;84;Rhône;69123;Lyon;Trésor de la cathédrale de Lyon;96070.0;0.0;96070.0;69
+2022;Bourgogne-Franche-Comté;27;Doubs;25056;Besançon;Cathédrale de Besançon et son Horloge astronomique;3490.0;5440.0;8930.0;25
+2022;Bourgogne-Franche-Comté;27;Saône-et-Loire;71032;Berzé-la-Ville;Chapelle des Moines;1640.0;6870.0;8500.0;71
+2022;Bourgogne-Franche-Comté;27;Saône-et-Loire;71137;Cluny;Abbaye de Cluny;31200.0;96660.0;127860.0;71
+2022;Bretagne;53;Finistère;29186;Plouezoc'h;Cairn de Barnenez;11660.0;29190.0;40850.0;29
+2022;Bretagne;53;Morbihan;56116;Locmariaquer;Sites des mégalithiques de Locmariaquer;17640.0;42280.0;59920.0;56
+2022;Centre-Val de loire;24;Indre;36143;Nohant-Vic;Maison de George Sand;9300.0;23460.0;32770.0;36
+2022;Centre-Val de loire;24;Indre-et-Loire;37261;Tours;Cloître de la Psalette cathédrale;7660.0;9900.0;17560.0;37
+2022;Centre-Val de loire;24;Loir-et-Cher;41034;Chambord;Domaine national de Chambord;312770.0;741180.0;1053950.0;41
+2022;Grand Est;44;Marne;51454;Reims;Tour de la cathédrale de Reims;4920.0;5380.0;10290.0;51
+2022;Hauts-de-France;32;Aisne;02219;Coucy-la-Ville;Château de Coucy;6980.0;9780.0;16750.0;02
+2022;Hauts-de-France;32;Pas-de-Calais;62894;Wimille;Colonne de la Grande Armée;3310.0;9690.0;13000.0;62
+2022;Hauts-de-France;32;Somme;80021;Amiens;Tours et trésor de la cathédrale d'Amiens;4880.0;6000.0;10880.0;80
+2022;Île-de-France;11;Hauts-de-Seine;92072;Sèvres;Maison des Jardies;710.0;380.0;1090.0;92
+2022;Île-de-France;11;Seine-et-Marne;77237;Jossigny;Château de Jossigny;970.0;7850.0;8820.0;77
+2022;Île-de-France;11;Yvelines;78358;Maisons-Laffitte;Château de Maisons;16070.0;51550.0;67620.0;78
+2022;Nouvelle-Aquitaine;75;Gironde;33505;La Sauve;Abbaye de La Sauve-Majeure;6840.0;11880.0;18720.0;33
+2022;Occitanie;76;Aude;11069;Carcassonne;Château et remparts de la cité de Carcassonne;176380.0;360710.0;537090.0;11
+2022;Occitanie;76;Haute-Garonne;31385;Montmaurin;Sites et musée archéologique de Montmaurin;1610.0;3470.0;5070.0;31
+2022;Occitanie;76;Hérault;34172;Montpellier;Montpellier - Hôtel de Lunas;0.0;0.0;0.0;34
+2022;Occitanie;76;Lot;46009;Assier;Château d'Assier;1320.0;2000.0;3320.0;46
+2022;Occitanie;76;Lot;46228;Prudhomat;Château de Castelnau-Bretenoux;15570.0;27800.0;43370.0;46
+2022;Occitanie;76;Tarn-et-Garonne;82074;Gramont;Château de Gramont;2490.0;3990.0;6480.0;82
+2022;Pays de la Loire;52;Vendée;85278;Saint-Vincent-sur-Jard;Maison de Georges Clemenceau;6970.0;13440.0;20400.0;85
+2022;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06011;Beaulieu-sur-Mer;Villa Kerylos;17500.0;34910.0;52410.0;06
+2022;Provence-Alpes- Côte d’Azur;93;Bouches-du-Rhône;13055;Marseille;Château d'If;26300.0;74890.0;101190.0;13
+2022;Provence-Alpes- Côte d’Azur;93;Var;83061;Fréjus;Cloître de la cathédrale de Fréjus;9400.0;15330.0;24730.0;83
+2022;Provence-Alpes- Côte d’Azur;93;Var;83136;Le Thoronet;Abbaye du Thoronet;19740.0;58020.0;77760.0;83
+2019;Auvergne-Rhône-Alpes;84;Ain;01053;Bourg-en-Bresse;Monastère royal de Brou;29740.0;61930.0;91660.0;01
+2019;Bretagne;53;Côtes-d'Armor;22362;Tréguier;Maison d'Ernest Renan;1390.0;1750.0;3130.0;22
+2019;Bretagne;53;Morbihan;56034;Carnac;Alignements de Carnac (Sites mégalithiques);280.0;44410.0;44690.0;56
+2019;Centre-Val de loire;24;Eure-et-Loir;28085;Chartres;Cathédrale, tours et trésor de Chartres;5070.0;8020.0;13090.0;28
+2019;Centre-Val de loire;24;Indre-et-Loire;37261;Tours;Cloître de la Psalette cathédrale;8870.0;12310.0;21180.0;37
+2019;Grand Est;44;Marne;51454;Reims;Palais du Tau;37080.0;60200.0;97280.0;51
+2019;Hauts-de-France;32;Oise;60491;Pierrefonds;Château de Pierrefonds;66810.0;86560.0;153360.0;60
+2019;Hauts-de-France;32;Somme;80021;Amiens;Tours et trésor de la cathédrale d'Amiens;10620.0;5990.0;16610.0;80
+2019;Île-de-France;11;Hauts-de-Seine;92064;Saint-Cloud;Domaine national de Saint-Cloud;1640.0;142700.0;144340.0;92
+2019;Île-de-France;11;Paris;75056;Paris;Hôtel de Sully;0.0;640.0;640.0;75
+2019;Île-de-France;11;Paris;75056;Paris;Arc de Triomphe;560280.0;1046440.0;1606710.0;75
+2019;Île-de-France;11;Paris;75056;Paris;Conciergerie;159050.0;296860.0;455910.0;75
+2019;Île-de-France;11;Val-de-Marne;94080;Vincennes;Château de Vincennes;64670.0;67810.0;132490.0;94
+2019;Île-de-France;11;Yvelines;78498;Poissy;Villa Savoye;17140.0;21600.0;38740.0;78
+2019;Nouvelle-Aquitaine;75;Gironde;33081;Cadillac-sur-Garonne;Château ducal de Cadillac;7920.0;14860.0;22780.0;33
+2019;Nouvelle-Aquitaine;75;Vienne;86061;Charroux;Abbaye de Charroux;760.0;0.0;760.0;86
+2019;Occitanie;76;Hérault;34172;Montpellier;Montpellier - Hôtel de Lunas;0.0;0.0;0.0;34
+2019;Occitanie;76;Lot;46009;Assier;Château d'Assier;320.0;1240.0;1550.0;46
+2019;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06011;Beaulieu-sur-Mer;Villa Kerylos;15850.0;28260.0;44110.0;06
+2020;Auvergne-Rhône-Alpes;84;Allier;03059;Chareil-Cintrat;Château de Chareil-Cintrat;450.0;340.0;790.0;03
+2020;Auvergne-Rhône-Alpes;84;Haute-Loire;43157;Le Puy-en-Velay;Ensemble cathédrale du Puy-en-Velay;4410.0;8210.0;12610.0;43
+2020;Bretagne;53;Morbihan;56116;Locmariaquer;Sites des mégalithiques de Locmariaquer;10100.0;19080.0;29170.0;56
+2020;Centre-Val de loire;24;Cher;18033;Bourges;Palais Jacques Cœur;9190.0;18240.0;27430.0;18
+2020;Centre-Val de loire;24;Indre-et-Loire;37014;Azay-le-Rideau;Château d'Azay-le-Rideau;61590.0;87480.0;149070.0;37
+2020;Hauts-de-France;32;Pas-de-Calais;62894;Wimille;Colonne de la Grande Armée;740.0;910.0;1650.0;62
+2020;Île-de-France;11;Hauts-de-Seine;92064;Saint-Cloud;Domaine national de Saint-Cloud;870.0;82900.0;83770.0;92
+2020;Île-de-France;11;Paris;75056;Paris;Sainte-Chapelle du Palais;121050.0;148380.0;269430.0;75
+2020;Normandie;28;Eure;27052;Le Bec-Hellouin;Abbaye du Bec-Hellouin;2390.0;2390.0;4780.0;27
+2020;Normandie;28;Manche;50353;Le Mont-Saint-Michel;Abbaye du Mont-Saint-Michel;178710.0;318280.0;497000.0;50
+2020;Nouvelle-Aquitaine;75;Gironde;33505;La Sauve;Abbaye de La Sauve-Majeure;4610.0;8180.0;12800.0;33
+2020;Nouvelle-Aquitaine;75;Deux-Sèvres;79196;Plaine-et-Vallées;Château d'Oiron;4740.0;6180.0;10920.0;79
+2020;Occitanie;76;Hérault;34183;Nissan-lez-Enserune;Oppidum et musée archéologique d'Ensérune;2240.0;5200.0;7430.0;34
+2020;Pays de la Loire;52;Vendée;85278;Saint-Vincent-sur-Jard;Maison de Georges Clemenceau;4600.0;9210.0;13800.0;85
+2020;Provence-Alpes- Côte d’Azur;93;Hautes-Alpes;05082;Mont-Dauphin;Place forte de Mont-Dauphin;2830.0;4660.0;7490.0;05
+2020;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06011;Beaulieu-sur-Mer;Villa Kerylos;9040.0;16850.0;25890.0;06
+2020;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06132;Saorge;Monastère de Saorge;1870.0;3080.0;4950.0;06
+2020;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06150;La Turbie;Trophée d'Auguste;2290.0;5040.0;7330.0;06
+2020;Provence-Alpes- Côte d’Azur;93;Var;83136;Le Thoronet;Abbaye du Thoronet;15040.0;38920.0;53960.0;83
+2021;Auvergne-Rhône-Alpes;84;Ain;01053;Bourg-en-Bresse;Monastère royal de Brou;18980.0;43730.0;62710.0;01
+2021;Auvergne-Rhône-Alpes;84;Ain;01160;Ferney-Voltaire;Château de Voltaire;9570.0;12280.0;21850.0;01
+2021;Auvergne-Rhône-Alpes;84;Haute-Loire;43157;Le Puy-en-Velay;Ensemble cathédrale du Puy-en-Velay;4460.0;13610.0;18060.0;43
+2021;Bourgogne-Franche-Comté;27;Côte-d'Or;21122;Bussy-le-Grand;Château de Bussy-Rabutin;5450.0;11350.0;16800.0;21
+2021;Bourgogne-Franche-Comté;27;Saône-et-Loire;71032;Berzé-la-Ville;Chapelle des Moines;950.0;4780.0;5730.0;71
+2021;Bretagne;53;Côtes-d'Armor;22362;Tréguier;Maison d'Ernest Renan;850.0;1540.0;2390.0;22
+2021;Bretagne;53;Finistère;29186;Plouezoc'h;Cairn de Barnenez;8570.0;21110.0;29680.0;29
+2021;Centre-Val de loire;24;Indre;36143;Nohant-Vic;Maison de George Sand;5600.0;14400.0;20010.0;36
+2021;Centre-Val de loire;24;Indre-et-Loire;37261;Tours;Cloître de la Psalette cathédrale;4110.0;5810.0;9910.0;37
+2021;Centre-Val de loire;24;Loir-et-Cher;41059;Le Controis-en-Sologne;Château de Fougères-sur-Bièvre;3970.0;6350.0;10330.0;41
+2021;Centre-Val de loire;24;Loir-et-Cher;41253;Talcy;Château de Talcy;3020.0;5470.0;8490.0;41
+2021;Hauts-de-France;32;Somme;80021;Amiens;Tours et trésor de la cathédrale d'Amiens;2180.0;2840.0;5020.0;80
+2021;Île-de-France;11;Paris;75056;Paris;Panthéon;218540.0;149550.0;368080.0;75
+2021;Île-de-France;11;Val-de-Marne;94080;Vincennes;Château de Vincennes;29090.0;29230.0;58320.0;94
+2021;Île-de-France;11;Yvelines;78498;Poissy;Villa Savoye;8090.0;7730.0;15810.0;78
+2021;Nouvelle-Aquitaine;75;Dordogne;24172;Les Eyzies;Sites préhistoriques de la vallée de la Vézère grotte de Font de Gaume;6810.0;11330.0;18140.0;24
+2021;Nouvelle-Aquitaine;75;Gironde;33505;La Sauve;Abbaye de La Sauve-Majeure;4410.0;9010.0;13420.0;33
+2021;Nouvelle-Aquitaine;75;Pyrénées-Atlantiques;64102;Bayonne;Cloître de la cathédrale de Bayonne;0.0;0.0;0.0;64
+2021;Occitanie;76;Tarn-et-Garonne;82074;Gramont;Château de Gramont;2620.0;3730.0;6340.0;82
+2021;Provence-Alpes- Côte d’Azur;93;Alpes-Maritimes;06150;La Turbie;Trophée d'Auguste;2360.0;4760.0;7120.0;06
+2022;Auvergne-Rhône-Alpes;84;Haute-Loire;43157;Le Puy-en-Velay;Ensemble cathédrale du Puy-en-Velay;6410.0;23940.0;30350.0;43
+2022;Auvergne-Rhône-Alpes;84;Puy-de-Dôme;63418;Sermentizon;Château d'Aulteribe;4550.0;4760.0;9300.0;63
+2022;Bretagne;53;Côtes-d'Armor;22362;Tréguier;Maison d'Ernest Renan;1180.0;1180.0;2360.0;22
+2022;Centre-Val de loire;24;Eure-et-Loir;28088;Châteaudun;Château de Châteaudun;8940.0;13590.0;22530.0;28
+2022;Grand Est;44;Marne;51454;Reims;Palais du Tau;29240.0;50870.0;80110.0;51
+2022;Hauts-de-France;32;Nord;59163;Croix;Villa Cavrois;43760.0;63010.0;106770.0;59
+2022;Île-de-France;11;Seine-Saint-Denis;93066;Saint-Denis;Basilique de Saint-Denis;39650.0;69910.0;109550.0;93
+2022;Île-de-France;11;Val-de-Marne;94080;Vincennes;Château de Vincennes;53820.0;61650.0;115470.0;94
+2022;Île-de-France;11;Yvelines;78517;Rambouillet;Domaine national de Rambouillet;22500.0;43130.0;65620.0;78
+2022;Normandie;28;Eure;27052;Le Bec-Hellouin;Abbaye du Bec-Hellouin;1480.0;6110.0;7590.0;27
+2022;Nouvelle-Aquitaine;75;Charente-Maritime;17300;La Rochelle;Tours de La Rochelle;58550.0;54490.0;113040.0;17
+2022;Nouvelle-Aquitaine;75;Dordogne;24172;Les Eyzies;Sites préhistoriques de la vallée de la Vézère grotte de Font de Gaume;11880.0;22060.0;33940.0;24
+2022;Nouvelle-Aquitaine;75;Dordogne;24289;Montcaret;Villa gallo-romaine de Montcaret;1370.0;2680.0;4050.0;24
+2022;Nouvelle-Aquitaine;75;Dordogne;24582;Villars;Château de Puyguilhem;4220.0;8080.0;12300.0;24
+2022;Nouvelle-Aquitaine;75;Gironde;33063;Bordeaux;Tour Pey-Berland;27340.0;23020.0;50360.0;33
+2022;Nouvelle-Aquitaine;75;Pyrénées-Atlantiques;64102;Bayonne;Cloître de la cathédrale de Bayonne;0.0;0.0;0.0;64
+2022;Pays de la Loire;52;Maine-et-Loire;49007;Angers;Château d'Angers;108090.0;137530.0;245620.0;49
+2022;Provence-Alpes- Côte d’Azur;93;Var;83019;Bormes-les-Mimosas;Fort de Brégançon;0.0;0.0;0.0;83

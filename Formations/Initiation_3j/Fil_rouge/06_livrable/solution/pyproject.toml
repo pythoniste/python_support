@@ -1,0 +1,29 @@
+[project]
+name = "recettes"
+version = "1.0.0"
+description = "Carnet de recettes — livrable final"
+requires-python = ">=3.14"
+authors = [{ name = "Formation Python" }]
+readme = "README.md"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[project.scripts]
+recettes = "recettes.__main__:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/recettes"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py314"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

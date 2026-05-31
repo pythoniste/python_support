@@ -1,0 +1,101 @@
+:css: css/presentation.css
+
+.. header::
+
+   .. image:: images/python-logo.png
+
+Présentation de Python
+======================
+
+.. note::
+
+    Origine du nom
+
+----
+
+Présentation technique
+======================
+
+* libre (proche BSD, compatible GPL)
+* gratuit
+* plusieurs implémentations
+* interprété
+* multi-paradigme
+* haut niveau
+* typage dynamique
+* typage fort
+* duck typing
+* gestion automatique des ressources
+* forte introspection
+* système de gestion d'exceptions
+
+----
+
+Présentation conceptuelle
+=========================
+
+« Le Zen de Python » (http://www.python.org/dev/peps/pep-0020/).
+
+* Beau est mieux que moche.
+* Explicite est mieux qu’implicite.
+* Simple est mieux que complexe.
+* Complexe est mieux que tortueux.
+* Linéaire est mieux qu’imbriqué.
+* Clairsemé est mieux que compact.
+* La lisibilité est importante.
+* Les cas particuliers ne le sont pas suffisamment pour briser les règles.
+* Le pragmatisme prime sur la pureté.
+* Bien que la fonctionnalité prime sur la pureté.
+* Les erreurs ne doivent jamais être silencieuses.
+* À moins de les avoir explicitement réduites au silence.
+* Confronté à l’ambiguïté, refuse de deviner.
+* Il devrait y avoir une – et de préférence une seule – façon évidente de procéder.
+* Bien qu’elle n’apparaisse pas évidente de prime abord à moins d’être néerlandais.
+* Mieux vaut maintenant que jamais.
+* Bien que jamais est souvent mieux que « tout de suite ».
+* Si l’implémentation est difficile à expliquer, elle est une mauvaise idée.
+* Si l’implémentation est facile à expliquer, il se pourrait qu’elle soit une bonne idée.
+* Les espaces de nommage sont une idée qui va faire du bruit, faisons-en plus !
+
+----
+
+Historique
+==========
+
+* Créé en 1989
+    * Par Guido van Rossum
+    * sur son temps libre
+    * en réponse à des problématiques systèmes
+
+* Première version 0.9.0
+    * rendue publique sur un forum Usenet
+    * en février 1991
+    
+* version 2.0
+    * Support unicode
+    * programmation fonctionnelle
+    * 16/10/2000
+
+* Version 3.0
+    * Changements syntaxiques
+    * claire séparation entre unicode et octets
+    * 03/12/2008
+
+* version 3.3
+    * première version de production de la branche 3.X
+    * stabilisation, optimisation et standardisation
+    * 10/09/2012
+
+* version 3.12
+    * 02/10/2023
+
+----
+
+Gouvernance
+===========
+
+* BDFL
+* communauté
+* outils collaboratif
+* PEP: décisions publiquement discutées
+

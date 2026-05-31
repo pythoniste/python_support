@@ -1,0 +1,4 @@
+<!ELEMENT liste (personne*)>
+<!ELEMENT personne EMPTY>
+<!ATTLIST personne id CDATA #REQUIRED>
+<!ATTLIST personne nom CDATA #IMPLIED>

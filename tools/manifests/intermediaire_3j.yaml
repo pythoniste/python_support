@@ -1,0 +1,33 @@
+format: Intermediaire_3j
+mode: 3j
+source_root: Bibliotheque_notebooks/Intermediaire
+
+days:
+  - id: J1
+    title: oo et typage
+    notebooks:
+      - 01_Modele_objet/01_Classes_et_attributs.ipynb
+      - 01_Modele_objet/03_Heritage.ipynb
+      - 01_Modele_objet/04_Surcharge_operateurs.ipynb
+      - 01_Modele_objet/05_Abc_et_protocol.ipynb
+      - 02_Typage_et_structures/01_Type_hints_modernes.ipynb
+      - 03_Dataclasses_et_validation/01_Dataclasses.ipynb
+      - 03_Dataclasses_et_validation/02_Pydantic_v2.ipynb
+
+  - id: J2
+    title: decorateurs et sql
+    notebooks:
+      - 04_Decorateurs_et_context_managers/01_Decorateurs.ipynb
+      - 04_Decorateurs_et_context_managers/02_Context_managers.ipynb
+      - 06_Modules_avances/02_Itertools_functools_operator.ipynb
+      - 07_Regex/01_Regex.ipynb
+      - 09_Persistance_SQL/01_SQL_avec_sqlite3.ipynb
+      - 09_Persistance_SQL/02_SQLAlchemy_Core.ipynb
+
+  - id: J3
+    title: tests et packaging
+    notebooks:
+      - 10_Tests/01_Pytest.ipynb
+      - 08_Logging/01_Logging_pro.ipynb
+      - 11_Packaging_et_outillage/01_Pyproject_et_uv.ipynb
+      - 11_Packaging_et_outillage/02_Ruff_et_mypy.ipynb

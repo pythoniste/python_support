@@ -1,0 +1,100 @@
+:css: css/presentation.css
+
+.. header::
+
+   .. image:: images/python-logo.png
+
+Python introduction
+===================
+
+.. note::
+
+    Where does the name "Python" come from ?
+
+----
+
+Technical aspects
+=================
+
+* Free software (close to BSD, compatible with GPL)
+* Free to use
+* multiple implementations
+* interpreted (executed over a virtual machine)
+* multi-paradigme
+* high level
+* dynamic typing
+* strong typing
+* duck typing
+* automatic management of resources
+* strong introspection
+* exception management system
+
+----
+
+Conceptual aspects
+==================
+
+« The Zen of Python » (http://www.python.org/dev/peps/pep-0020/).
+
+* Beautiful is better than ugly.
+* Explicit is better than implicit.
+* Simple is better than complex.
+* Complex is better than complicated.
+* Flat is better than nested.
+* Sparse is better than dense.
+* Readability counts.
+* Special cases aren't special enough to break the rules.
+* Although practicality beats purity.
+* Errors should never pass silently.
+* Unless explicitly silenced.
+* In the face of ambiguity, refuse the temptation to guess.
+* There should be one-- and preferably only one --obvious way to do it.
+* Although that way may not be obvious at first unless you're Dutch.
+* Now is better than never.
+* Although never is often better than *right* now.
+* If the implementation is hard to explain, it's a bad idea.
+* If the implementation is easy to explain, it may be a good idea.
+* Namespaces are one honking great idea -- let's do more of those!
+
+----
+
+History
+=======
+
+* Created in 1989
+    * By Guido van Rossum
+    * on his free time
+    * as a response to system problems encoutered
+
+* First version 0.9.0
+    * published on an Usenet forum
+    * in february 1991
+
+* version 2.0
+    * Support of unicode
+    * functional programming
+    * 16/10/2000
+
+* Version 3.0
+    * Syntaxic changes
+    * Clear separation between unicode and bytes
+    * 03/12/2008
+
+* version 3.3
+    * First version feat to prod of the 3.X branch
+    * stabilization, optimisation and standardisation
+    * 10/09/2012
+
+* version 3.14
+    * 24/04/2024
+
+----
+
+Governance
+==========
+
+* BDFL
+* community
+* collaborative tools
+* PEP: Python enhancement proposals, publicly dicussed
+

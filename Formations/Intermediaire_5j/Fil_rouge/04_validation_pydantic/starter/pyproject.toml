@@ -1,0 +1,19 @@
+[project]
+name = "reservation"
+version = "0.4.0"
+description = "Réservation de salles (fil rouge, étape 04)"
+requires-python = ">=3.14"
+dependencies = ["pydantic>=2", "pydantic[email]"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "mypy>=1.11"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/reservation"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

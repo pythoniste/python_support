@@ -1,0 +1,57 @@
+format: Initiation_5j
+mode: 5j
+source_root: Bibliotheque_notebooks/Initiation
+
+days:
+  - id: J1
+    title: prise en main
+    notebooks:
+      - 01_Presentation/01_Installation.ipynb
+      - 01_Presentation/02_REPL_et_Jupyter.ipynb
+      - 02_Syntaxe/01_Variables_et_types_primitifs.ipynb
+      - 02_Syntaxe/02_Operateurs_et_expressions.ipynb
+      - 02_Syntaxe/03_Entrees_sorties_console.ipynb
+      - 02_Syntaxe/04_Conditions.ipynb
+      - 02_Syntaxe/05_Boucles.ipynb
+
+  - id: J2
+    title: types de donnees
+    notebooks:
+      - 03_Types_de_donnees/01_Nombres.ipynb
+      - 03_Types_de_donnees/02_Booleens.ipynb
+      - 03_Types_de_donnees/03_Chaines.ipynb
+      - 03_Types_de_donnees/04_Listes.ipynb
+      - 03_Types_de_donnees/05_Tuples.ipynb
+      - 03_Types_de_donnees/06_Dictionnaires.ipynb
+      - 03_Types_de_donnees/07_Ensembles.ipynb
+      - 03_Types_de_donnees/08_Donnees_temporelles.ipynb
+
+  - id: J3
+    title: fonctions et algorithmique
+    notebooks:
+      - 04_Fonctions/01_Signatures_et_parametres.ipynb
+      - 04_Fonctions/02_Type_hints_intro.ipynb
+      - 04_Fonctions/03_Portee_et_closures.ipynb
+      - 02_Syntaxe/06_Exceptions.ipynb
+      - 02_Syntaxe/07_Debugging.ipynb
+
+  - id: J4
+    title: modules et fichiers
+    notebooks:
+      - 05_Programmation_fonctionnelle/01_Comprehensions.ipynb
+      - 06_Modules_et_packages/01_Modules_standard.ipynb
+      - 06_Modules_et_packages/02_Imports_et_structure.ipynb
+      - 07_Entrees_sorties/01_Fichiers_et_pathlib.ipynb
+      - 07_Entrees_sorties/02_CSV.ipynb
+      - 07_Entrees_sorties/03_JSON.ipynb
+
+  - id: J5
+    title: qualite packaging livrable
+    notebooks:
+      - 08_Bonnes_pratiques_et_packaging/01_PEP8_et_docstrings.ipynb
+      - 08_Bonnes_pratiques_et_packaging/02_Ruff.ipynb
+      - 08_Bonnes_pratiques_et_packaging/03_Pyproject_toml.ipynb
+      - 08_Bonnes_pratiques_et_packaging/04_Logging_basique.ipynb
+      - 08_Bonnes_pratiques_et_packaging/05_CLI_argparse.ipynb
+      - 08_Bonnes_pratiques_et_packaging/06_Pytest_intro.ipynb
+      - 08_Bonnes_pratiques_et_packaging/07_Build_wheel.ipynb

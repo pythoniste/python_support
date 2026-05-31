@@ -1,0 +1,15 @@
+A > Proposer une fonction Python permettant de lister les interfaces réseaux disponibles
+B > Proposer une fonction Python permettant de lister les IP disponibles sur une interface réseau disponible
+
+Suite d'exercices pour A (à reprendre pour B uniquement lorsque tout a été fait pour A)
+
+- Proposer un parseur d'argument pour utiliser la fonction Python depuis le terminal (documenter)
+- Permettre de stocker de manière persistente les données (plusieurs solutions possibles)
+- Permettre de comparer avec le jeu de données précédemment sauvegardé
+- Permettre de donner les informations via un serveur REST
+	- A : route /interface => donne la liste des interfaces
+	- B : route /interface/eth0 => donne la liste des IP pour l'interface eth0
+- Créer un serveur TCP ou UDP de haut niveau permettant d'exposer ces données:
+	- A : lorsque le client envoie L, le serveur renvoie la liste d'interfaces réseaux
+	- B : lorsque le client envoie I suivi du nom d'une interface réseau, le serveur renvoie la liste des IP
+

@@ -1,0 +1,76 @@
+stages:
+  - lint
+  - validate
+  - build
+
+variables:
+  UV_CACHE_DIR: "$CI_PROJECT_DIR/.cache/uv"
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+default:
+  image: python:3.13-slim
+  before_script:
+    - pip install uv --quiet
+    - uv sync --quiet
+  cache:
+    key: "$CI_COMMIT_REF_SLUG"
+    paths:
+      - .venv/
+      - .cache/uv/
+
+# ── Stage 1: Lint ──────────────────────────────────────────────────
+
+lint:
+  stage: lint
+  script:
+    - uv run ruff check tools/ Bibliotheque_notebooks/_common/
+  rules:
+    - changes:
+        - tools/**/*.py
+        - Bibliotheque_notebooks/_common/**/*.py
+      when: always
+    - when: manual
+      allow_failure: true
+
+# ── Stage 2: Validate notebooks ───────────────────────────────────
+#
+# Runs check_notebooks.py on the 10 most important Initiation notebooks.
+# Full validation of all notebooks would be too slow for CI.
+
+validate:
+  stage: validate
+  timeout: 30m
+  script:
+    - >
+      uv run python tools/check_notebooks.py Initiation/03_Types_de_donnees
+    - >
+      uv run python tools/check_notebooks.py Initiation/04_Fonctions
+    - >
+      uv run python tools/check_notebooks.py Initiation/07_Entrees_sorties
+  rules:
+    - changes:
+        - Bibliotheque_notebooks/Initiation/**/*.ipynb
+        - tools/check_notebooks.py
+      when: always
+    - when: manual
+      allow_failure: true
+
+# ── Stage 3: Build formations ─────────────────────────────────────
+
+build:
+  stage: build
+  script:
+    - uv run python tools/build_formation.py --all
+  artifacts:
+    paths:
+      - Formations/
+    expire_in: 7 days
+  rules:
+    - changes:
+        - Bibliotheque_notebooks/**/*.ipynb
+        - tools/manifests/**/*.yaml
+        - tools/build_formation.py
+        - tools/build_3j.py
+      when: always
+    - when: manual
+      allow_failure: true

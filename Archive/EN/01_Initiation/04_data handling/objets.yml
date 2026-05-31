@@ -1,0 +1,12 @@
+objets:
+- couleur: rouge
+  figure_une: null
+  forme: cercle
+- couleur: rouge
+  figure_deux: null
+  forme: cercle
+  points:
+  - a
+  - b
+  - c
+  - d

@@ -1,0 +1,52 @@
+format: Avance_5j
+mode: 5j
+source_root: Bibliotheque_notebooks/Avance
+
+days:
+  - id: J1
+    title: metaprog et internals
+    notebooks:
+      - 01_Metaprog_et_descripteurs/01_Descripteurs.ipynb
+      - 01_Metaprog_et_descripteurs/02_Init_subclass_et_class_decorators.ipynb
+      - 01_Metaprog_et_descripteurs/03_Metaclasses.ipynb
+      - 01_Metaprog_et_descripteurs/04_Abc_vs_protocol.ipynb
+      - 01_Metaprog_et_descripteurs/05_Slots_weakref_gc.ipynb
+      - 01_Metaprog_et_descripteurs/06_Bytecode_et_dis.ipynb
+
+  - id: J2
+    title: concurrence
+    notebooks:
+      - 02_Concurrence/01_Threading_et_gil.ipynb
+      - 02_Concurrence/02_Multiprocessing.ipynb
+      - 02_Concurrence/03_Concurrent_futures.ipynb
+      - 02_Concurrence/04_Synchronisation.ipynb
+      - 02_Concurrence/05_PEP703_free_threaded.ipynb
+
+  - id: J3
+    title: asyncio
+    notebooks:
+      - 03_Asyncio/01_Event_loop_et_coroutines.ipynb
+      - 03_Asyncio/02_Tasks_et_gather.ipynb
+      - 03_Asyncio/03_Httpx_async.ipynb
+      - 03_Asyncio/04_Structured_concurrency.ipynb
+      - 03_Asyncio/05_Patterns_avances.ipynb
+
+  - id: J4
+    title: performance et profiling
+    notebooks:
+      - 04_Performance_et_profiling/01_Profiling_cpu.ipynb
+      - 04_Performance_et_profiling/02_Profiling_memoire.ipynb
+      - 04_Performance_et_profiling/03_Benchmarking.ipynb
+      - 04_Performance_et_profiling/04_Optimisation.ipynb
+      - 04_Performance_et_profiling/05_Cython_numba_teasers.ipynb
+
+  - id: J5
+    title: securite packaging nouveautes
+    notebooks:
+      - 05_Securite/01_Hashing_et_hmac.ipynb
+      - 05_Securite/02_Passwords_argon2.ipynb
+      - 05_Securite/03_Secrets_et_tokens.ipynb
+      - 05_Securite/04_Chiffrement_fernet.ipynb
+      - 06_Packaging_avance_et_nouveautes/01_Wheels_et_publication.ipynb
+      - 06_Packaging_avance_et_nouveautes/02_Structlog.ipynb
+      - 06_Packaging_avance_et_nouveautes/03_Nouveautes_3_11_a_3_14.ipynb

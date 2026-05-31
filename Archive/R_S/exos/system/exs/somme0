@@ -1,0 +1,48 @@
+#!/usr/bin/python3
+
+"""
+$ somme 1 2 3
+"""
+import argparse
+
+
+def get_parser():
+
+    parser = argparse.ArgumentParser(
+	    prog = 'somme',
+	    description = """Programme permettant de sommer trois entiers""",
+	    epilog = """Exemple basique"""
+    )
+
+    parser.add_argument(
+        'un',
+        help="Premier nombre",
+        type=int,
+    )
+
+    parser.add_argument(
+        'deux',
+        help="Deuxième nombre",
+        type=int,
+    )
+
+    parser.add_argument(
+        'trois',
+        help="Troisième nombre",
+        type=int,
+    )
+
+    def proxy_sum(args):
+	    """Fonction proxy vers la primitive sum"""
+	    print(sum((args.un, args.deux, args.trois)))
+
+    parser.set_defaults(func=proxy_sum)
+
+    return parser
+
+
+if __name__ == '__main__':
+    parser = get_parser()
+    args = parser.parse_args()
+    args.func(args)
+
